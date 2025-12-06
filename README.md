@@ -42,8 +42,8 @@ If you want to search & filters the complete database of [.CLUB one word domains
 | abhorrent.club  | premium   | 54       | 3%     | 9      |           |         |         |
 | abiding.club    | premium   | 106      | 5%     | 7      |           |         |         |
 | abient.club     | available | 54       | 1%     | 6      |           |         |         |
-| ability.club    | available | 92       | 18%    | 7      |           |         |         |
-| abit.club       | available | 66       | 16%    | 5      |           |         |         |
+| ability.club    | premium   | 92       | 18%    | 7      |           |         |         |
+| abit.club       | premium   | 66       | 16%    | 5      |           |         |         |
 | abject.club     | premium   | 94       | 8%     | 6      |           |         |         |
 | abkhas.club     | available | 68       | 1%     | 6      |           |         |         |
 | abkhasian.club  | available | 78       | 1%     | 9      |           |         |         |
