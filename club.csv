@@ -350,6 +350,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2371d87f-c12f-49ec-8774-b54bd3bb1dd8,thefactthat.club,available,6.99,,47,1,13,name.com,,
 237a6700-6a32-4346-a640-d7f2355e7268,continents.club,premium,33.49,,50,5,10,name.com,,
 237bca50-3a4f-4835-93f0-ddd13a3812d1,knows.club,premium,1339.6,,48,20,5,name.com,,
+238c298b-bfb1-4d8f-af39-6a456fc2a336,objects.club,premium,,,48,13,7,,,
 23b507dc-30e9-4b02-8e9e-26a8fa03a213,counterattack.club,premium,33.49,,64,3,14,name.com,,
 23b7e78c-80cf-444b-b288-82423cb4d7ce,decideupon.club,available,6.99,,76,0,11,name.com,,
 23f19d22-c659-4722-9182-2e9e5cd18ae9,spellout.club,available,6.99,,76,2,9,name.com,,
@@ -387,6 +388,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 28306c3c-9a3f-41d6-a7f3-332ebc4bee3c,sanctions.club,premium,29.5,17.7,52,8,9,namesilo,,
 28406e7e-0871-489a-a9d4-c75d33203489,alotof.club,available,6.99,,60,5,8,name.com,,
 2840ae65-94ea-4ff5-ad03-36625d0dbe58,heroes.club,premium,1339.6,,68,29,6,name.com,,
+2847862b-5aa3-41f1-8375-c791ac923808,redapple.club,premium,,,80,12,9,,,
 2889c6ae-2846-40ad-8c56-93953e5330a2,electricians.club,resell,,,56,10,12,"GoDaddy.com, LLC",22/06/2023 17:06,22/06/2026 17:06
 28c71f55-4979-4b56-b02b-67d71a1c47ac,troublefree.club,premium,33.49,,66,6,12,name.com,,
 28f12e8e-f182-4b13-9c4e-6c92720d9d81,manages.club,premium,669.8,,56,3,7,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 64be96af-0ddd-44a4-8856-e980c57761d7,justthen.club,available,6.99,,62,1,9,name.com,,
 64d2aa8e-dc9a-4481-8b25-0cf5b6314594,squealed.club,premium,33.49,,40,1,8,name.com,,
 64e2428f-25de-464a-8178-7d29e048027c,fitthebill.club,available,6.99,,84,1,12,name.com,,
-651bc954-1b9c-46b6-86ac-feced15f0e70,penalties.club,premium,33.49,,68,3,9,name.com,,
-6522ea90-f1f9-4d00-9589-fe41c5b26dd4,aldehydes.club,available,4.99,19.49,36,1,9,namesilo,,
