@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .club one-word domains from
 
 **Public extract:** 1,000 rows · **Live catalog:** 9,879 domains · **Median ask:** $235.83 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/club`  
 **Best for:** founders, investors, studios
 
@@ -64,25 +64,25 @@ print(df.head())
 
 | domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| notime.club        | available | $6.99     | —             | 64             | 10     | 7      | name.com                                                |
+| godeep.club        | available | $6.99     | —             | 74             | 10     | 7      | name.com                                                |
 | service.club       | resell    | —         | —             | 70             | 41     | 7      | GoDaddy.com, LLC                                        |
 | regions.club       | premium   | $1,339.60 | —             | 64             | 59     | 7      | name.com                                                |
-| mutualaid.club     | available | $6.99     | —             | 78             | 9      | 10     | name.com                                                |
+| notime.club        | available | $6.99     | —             | 64             | 10     | 7      | name.com                                                |
 | coins.club         | resell    | —         | —             | 56             | 41     | 5      | GoDaddy.com, LLC                                        |
 | keepthechange.club | premium   | $33.49    | —             | 46             | 59     | 15     | name.com                                                |
-| divein.club        | available | $6.99     | —             | 76             | 9      | 7      | name.com                                                |
+| mutualaid.club     | available | $6.99     | —             | 78             | 9      | 10     | name.com                                                |
 | lets.club          | resell    | —         | —             | 77             | 39     | 4      | Spaceship, Inc.                                         |
 | Books.club         | premium   | $3,500    | $21           | 52             | 49     | 5      | namecheap                                               |
-| moveforward.club   | available | $6.99     | —             | 76             | 9      | 12     | name.com                                                |
+| divein.club        | available | $6.99     | —             | 76             | 9      | 7      | name.com                                                |
 | events.club        | resell    | —         | —             | 68             | 37     | 6      | Spaceship, Inc.                                         |
 | Tools.club         | premium   | $3,500    | $21           | 56             | 40     | 5      | namecheap                                               |
-| seton.club         | available | $6.99     | —             | 72             | 9      | 6      | name.com                                                |
+| moveforward.club   | available | $6.99     | —             | 76             | 9      | 12     | name.com                                                |
 | candy.club         | resell    | —         | —             | 75             | 35     | 5      | GoDaddy.com, LLC                                        |
 | maps.club          | premium   | $1,004.70 | —             | 56             | 31     | 4      | name.com                                                |
-| makewaves.club     | available | $6.99     | —             | 78             | 8      | 10     | name.com                                                |
+| seton.club         | available | $6.99     | —             | 72             | 9      | 6      | name.com                                                |
 | list.club          | resell    | —         | —             | 70             | 35     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 | heroes.club        | premium   | $1,339.60 | —             | 68             | 29     | 6      | name.com                                                |
-| useit.club         | available | $6.99     | —             | 94             | 7      | 6      | name.com                                                |
+| makewaves.club     | available | $6.99     | —             | 78             | 8      | 10     | name.com                                                |
 | tickets.club       | resell    | —         | —             | 64             | 34     | 7      | GoDaddy.com, LLC                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLUB One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLUB One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
