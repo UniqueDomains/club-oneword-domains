@@ -1,10 +1,10 @@
-# Available .CLUB One-Word Domains (12,685)
+# Available .CLUB One-Word Domains (13,029)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C685%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C029%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .club one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,685 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,029 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,685 domains · **Median ask:** $239.16 · **High-demand under $2,500:** 4
+**Public extract:** 1,000 rows · **Live catalog:** 13,029 domains · **Median ask:** $234.14 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-08-14
+**Last updated:** 2026-08-15
 **Canonical page:** `https://unique.domains/domains/tld/club`
 **Best for:** founders, investors, studios
 
@@ -69,9 +69,6 @@ print(df.head())
 | something.club | premium   | $1,339.60 | —             | high           | low    | 9      | name.com                                                |
 | fuck.club      | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC                                        |
 | thick.club     | premium   | $53.92    | $17.70        | high           | low    | 5      | namesilo                                                |
-| complete.club  | premium   | $1,300    | $16.90        | high           | low    | 8      | namecheap                                               |
-| chief.club     | premium   | $3,349    | —             | high           | low    | 5      | name.com                                                |
-| wholesale.club | resell    | —         | —             | high           | low    | 9      | GoDaddy.com, LLC                                        |
 | ahuh.club      | available | $4.99     | $19.49        | high           | low    | 4      | namesilo                                                |
 | ask.club       | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
 | aid.club       | premium   | $224      | $17.70        | medium         | low    | 3      | namesilo                                                |
@@ -84,6 +81,9 @@ print(df.head())
 | xxii.club      | available | $19.99    | $24.99        | medium         | low    | 4      | name.com                                                |
 | lol.club       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
 | BJP.club       | premium   | $234.43   | —             | medium         | low    | 3      | name.com                                                |
+| agaze.club     | available | $4.98     | $24.98        | low            | low    | 5      | namecheap                                               |
+| mom.club       | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
+| btw.club       | premium   | $6,698    | —             | high           | low    | 3      | name.com                                                |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,685 live domains                        |
+| 1,000-row public sample | 13,029 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 4 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLUB One-Word Domains*. Version 2026-08-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLUB One-Word Domains*. Version 2026-08-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
