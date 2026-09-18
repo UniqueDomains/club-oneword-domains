@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-c65e4b49-a6c1-48e9-b052-9a204ed3e9ef,mom.club,resell,,,high,low,3,"GoDaddy.com, LLC",03/11/2023 21:02,03/01/2027 17:11,
+c65e4b49-a6c1-48e9-b052-9a204ed3e9ef,mom.club,resell,,,high,low,3,"GoDaddy.com, LLC",03/11/2023 21:02,03/01/2027 17:11,17/09/2026 09:58
 9e14aa32-92db-43e8-ad8a-bd503f1bd5bf,blistering.club,premium,29.5,17.7,low,low,10,namesilo,,,
 b49f5dd9-84a7-4ba9-ae14-931930c8715e,airline.club,premium,6500,16.9,high,low,7,namecheap,,,
 df2354f8-5026-4789-831f-22c781bc6870,outback.club,premium,6698,,high,low,7,name.com,,,
@@ -512,7 +512,6 @@ bc849831-05f1-4dc7-9b79-f1dc1cef5308,paying.club,premium,1107,17.7,high,low,6,na
 9a036ec9-8dd5-4480-9702-4c07868955f7,providingthat.club,available,4.99,19.49,medium,low,14,namesilo,,,
 19887dd4-c863-4187-a682-12cd07f1a25f,chief.club,premium,3349,,high,low,5,name.com,,,
 c78f3f83-5bd5-4436-8b30-81f611f1c9e0,balsamy.club,available,1.98,24.98,low,low,7,namecheap,,,08/08/2026 10:36
-5621548c-2d60-4e89-a5d4-7cc73c1cf18b,windmill.club,resell,,,medium,low,9,"Spaceship, Inc.",11/09/2024 00:00,11/09/2026 00:00,
 97f1721f-cb6e-4403-91da-deaabd0ab4c3,accoutred.club,available,4.98,24.98,low,low,9,namecheap,,,
 c68c838e-beec-4a02-a7a3-15be1711d88c,mosquito.club,premium,66.98,,medium,low,8,name.com,,,
 f0f440d6-69e8-4f86-9a3e-02824e58c095,conclusion.club,premium,29.5,17.7,high,low,10,namesilo,,,
@@ -693,7 +692,6 @@ aa03e4e1-42a6-44d6-88fe-726ae3c11684,xxxiv.club,available,4.98,24.98,low,low,5,n
 7f4557d5-02e3-423b-9189-4d06cccd7c9e,bathetic.club,available,1.98,24.98,low,low,8,namecheap,,,09/08/2026 00:28
 2bd8492d-869a-4a7a-9309-dba35c17bc55,visible.club,premium,53.92,17.7,high,low,7,namesilo,,,
 a6ed76a1-ed58-4e6d-924a-740e3838511d,howdiditgo.club,available,4.99,19.49,medium,low,13,namesilo,,,
-a2089222-7d77-4fec-8ccc-4c6038a585db,signin.club,available,6.99,,high,low,7,name.com,,,
 58d820ac-726c-4b9f-a669-b5a1db456a68,managing.club,premium,29.5,17.7,high,low,8,namesilo,,,
 cefac8ca-d202-498a-b6ec-058631737601,bowout.club,available,1.99,,high,low,7,name.com,,,
 81007215-ebce-4e84-95a3-6650acf6b21b,apiculate.club,available,1.98,24.98,low,low,9,namecheap,,,06/08/2026 00:03
@@ -999,3 +997,5 @@ a33e7f25-49ea-474c-ae3a-94e7b215602e,Philly.club,premium,302.5,17.7,high,low,6,n
 47629358-707f-4cb6-8e92-1f1af3cf8b9d,endearing.club,premium,32.5,16.9,high,low,9,namecheap,,,
 76b3cc91-e231-4f40-850a-b7151fd70524,attentive.club,premium,33.49,,medium,low,9,name.com,,,
 1dc11771-63ef-4335-89bf-e4593deda865,agreed.club,premium,32.5,16.9,high,low,6,namecheap,,,
+30a8af84-9702-46bb-80a1-ae5d6d7ccc5e,grinning.club,premium,29.5,17.7,high,low,8,namesilo,,,
+7b8c91f4-e5e3-420b-bf79-b9ed54b83e33,plentiful.club,premium,29.5,17.7,high,low,9,namesilo,,,
