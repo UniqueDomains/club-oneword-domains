@@ -1,10 +1,10 @@
-# Available .CLUB One-Word Domains (27,140)
+# Available .CLUB One-Word Domains (18,509)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C140%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-18%2C509%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .club one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **27,140 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **18,509 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 27,140 domains · **Median ask:** $145.24 · **High-demand under $2,500:** 8
+**Public extract:** 1,000 rows · **Live catalog:** 18,509 domains · **Median ask:** $251.86 · **High-demand under $2,500:** 8
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/club`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| ahuh.club | available | $4.99     | $19.49        | high           | low    | 4      | namesilo                                                |
-| ask.club  | resell    | —         | —             | high           | medium | 3      | Dynadot Inc                                             |
-| aid.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                                |
-| awny.club | available | $1.98     | $24.98        | medium         | low    | 4      | namecheap                                               |
-| boy.club  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| ala.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                                |
-| cxxv.club | available | $4.98     | $24.98        | medium         | low    | 4      | namecheap                                               |
-| bud.club  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                        |
-| ane.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                                |
-| cxxx.club | available | $4.98     | $24.98        | high           | low    | 4      | namecheap                                               |
-| egg.club  | resell    | —         | —             | high           | low    | 3      | Dynadot Inc                                             |
-| aug.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                                |
-| lxxi.club | available | $4.98     | $24.98        | medium         | low    | 4      | namecheap                                               |
-| lan.club  | resell    | —         | —             | high           | low    | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| azo.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                                |
-| xcii.club | available | $4.98     | $24.98        | medium         | low    | 4      | namecheap                                               |
-| law.club  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                        |
-| bag.club  | premium   | $6,500    | $19.50        | high           | low    | 3      | namecheap                                               |
-| xxxv.club | available | $4.98     | $24.98        | high           | low    | 4      | namecheap                                               |
-| lol.club  | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.                                         |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| akha.club | available | $4.99     | $19.49        | medium         | low    | 4      | namesilo                                            |
+| ceo.club  | resell    | —         | —             | high           | low    | 3      | —                                                   |
+| atp.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                            |
+| coxa.club | available | $4.99     | $19.49        | high           | low    | 4      | namesilo                                            |
+| dan.club  | resell    | —         | —             | high           | medium | 3      | —                                                   |
+| bps.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                            |
+| cxlv.club | available | $4.98     | $24.98        | medium         | low    | 4      | namecheap                                           |
+| key.club  | resell    | —         | —             | high           | medium | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| bye.club  | premium   | $224      | $17.70        | high           | low    | 3      | namesilo                                            |
+| cxxv.club | available | $4.98     | $24.98        | medium         | low    | 4      | namecheap                                           |
+| pot.club  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
+| cia.club  | premium   | $227.50   | $19.50        | high           | medium | 3      | namecheap                                           |
+| lxvi.club | available | $4.98     | $24.98        | medium         | low    | 4      | namecheap                                           |
+| tap.club  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
+| des.club  | premium   | $234.43   | —             | high           | low    | 3      | name.com                                            |
+| lxxx.club | available | $4.98     | $24.98        | medium         | low    | 4      | namecheap                                           |
+| tub.club  | resell    | —         | —             | high           | low    | 3      | GoDaddy Online Services Cayman Islands Ltd.         |
+| dig.club  | premium   | $6,500    | $19.50        | high           | low    | 3      | namecheap                                           |
+| orad.club | available | $1.98     | $24.98        | medium         | low    | 4      | namecheap                                           |
+| aeon.club | resell    | —         | —             | high           | high   | 4      | Dynadot Inc                                         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 27,140 live domains                        |
+| 1,000-row public sample | 18,509 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 8 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CLUB One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CLUB One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
