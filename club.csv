@@ -1,5 +1,6 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 230d0075-8c2e-4ded-9c78-b96c8088363d,avoid.club,premium,960,17.7,high,low,5,namesilo,,,13/09/2026 06:44
+c8613daa-8619-43a8-a125-4d4da3ea9c69,appreciated.club,premium,25.5,,high,low,11,unstoppable,,,28/09/2026 07:22
 816f464e-8ae3-4802-96c1-79b38ea39ab2,unwavering.club,premium,29.5,17.7,high,low,10,namesilo,,,18/08/2026 05:12
 ffcf86fd-9631-4ca0-9e8b-bb1eceba357d,scholarly.club,premium,302.5,17.7,high,low,9,namesilo,,,09/09/2026 23:11
 fa97a68a-4de3-4140-9878-8b54bd77f305,inchoate.club,premium,29.5,17.7,medium,low,8,namesilo,,,22/08/2026 01:16
@@ -8,10 +9,11 @@ f5140731-651d-4bd0-8665-31ddcf60f680,perch.club,available,,,high,low,5,,,,
 e5d63c15-8467-4572-a3d1-01ae8998eb2d,nails.club,premium,960,17.7,high,low,5,namesilo,,,
 88cad2d9-0efc-401a-9826-72966e1f1d97,nicholas.club,premium,302.5,17.7,high,low,8,namesilo,,,28/09/2026 02:29
 0984d87a-2a5a-42dc-bf8f-17800f3a7f5c,performed.club,premium,29.5,17.7,medium,low,9,namesilo,,,
-d0106df1-2add-4dc8-99d3-428b33727445,valuable.club,premium,960,17.7,high,low,8,namesilo,,,
+d0106df1-2add-4dc8-99d3-428b33727445,valuable.club,premium,825,15.96,high,low,8,dynadot,,,28/09/2026 10:06
 41ddaa94-8580-4300-8626-621cbdbf671e,pounds.club,premium,32.5,19.5,medium,low,6,namecheap,,,18/09/2026 01:51
 e20cdf0a-ff95-493d-a214-26f173e00ceb,absent.club,premium,53.92,17.7,high,low,6,namesilo,,,21/09/2026 14:37
 e98b3838-7944-4b54-a862-e539d5e48493,bluewing.club,available,4.99,19.49,medium,low,8,namesilo,,,19/09/2026 02:57
+786065d3-abb4-4aef-a7e6-fda5e61ee36a,poets.club,premium,2587.7,15.73,medium,low,5,spaceship,,,28/09/2026 22:26
 d3d5c448-0840-4c53-8c05-3b6599c50812,pushchair.club,available,4.99,19.49,high,low,9,namesilo,,,21/09/2026 13:21
 e1ccd0c3-aebe-430a-828e-5378291d9d22,xoxoxo.club,premium,29.5,17.7,high,low,6,namesilo,,,
 e5dadcd8-84b4-4c34-8e86-fcc4a92bfe8f,intro.club,resell,,,high,low,5,"NameSilo, LLC",17/11/2016 17:37,16/11/2027 23:59,26/09/2026 06:56
@@ -21,21 +23,24 @@ f0ad2c86-f83d-4d1a-8d84-47527ad4dc1c,belisarius.club,available,4.99,19.49,medium
 8b3cf53f-bad3-448a-8e86-f64f1edd148b,tablets.club,premium,116,17.7,high,low,7,namesilo,,,18/09/2026 15:46
 a9e3c0fe-b70e-4f5c-a9d8-6c39266cbd9d,champaign.club,premium,130,19.5,medium,low,9,namecheap,,,08/09/2026 20:30
 31f0ad50-e74c-4d9c-a2b7-ac6a5720d31d,mortgaged.club,premium,29.5,17.7,medium,low,9,namesilo,,,25/08/2026 06:38
-6efc6b5e-3ccf-47aa-b55b-4019e147f786,merger.club,resell,,,high,low,6,"GoDaddy.com, LLC",29/05/2014 02:12,28/05/2027 23:59,26/09/2026 07:31
+6efc6b5e-3ccf-47aa-b55b-4019e147f786,merger.club,resell,,,high,low,6,"GoDaddy.com, LLC",29/05/2014 02:12,28/05/2027 23:59,28/09/2026 20:49
 3fb21d3f-5b64-41cc-bb38-02b33343dda7,unowned.club,premium,29.5,17.7,medium,low,7,namesilo,,,04/09/2026 22:16
 6a87b25d-9cbb-445d-b237-530e10449bcd,speaks.club,premium,29.5,17.7,medium,low,6,namesilo,,,16/09/2026 07:20
 0287d922-d6b1-415f-81da-cde8ed2cfd6e,bordello.club,premium,325,19.5,medium,low,8,namecheap,,,21/09/2026 18:17
 e1365b42-9b8b-4757-9cea-96f26406f986,whose.club,premium,1107,17.7,high,low,5,namesilo,,,
 501c4da2-7c46-4bcf-a024-f96efa03a766,continues.club,premium,29.5,17.7,medium,low,9,namesilo,,,17/09/2026 13:29
+b0599849-6c17-4ffb-b6d7-f26981c575b2,espn.club,premium,,,high,low,4,,,,28/09/2026 08:02
 3394bdb1-edcc-4ba0-b29e-2937049be71f,heraldic.club,premium,29.5,17.7,medium,low,8,namesilo,,,21/08/2026 06:53
 9e866e3e-7656-4a00-aa2b-772823952b46,implied.club,premium,29.5,17.7,high,low,7,namesilo,,,
 9e12633d-b91d-4f1f-95f8-64f19f8330c2,seafaring.club,premium,29.5,17.7,medium,low,9,namesilo,,,04/09/2026 00:22
 44500277-f2b2-4359-a957-0957ce5cb238,amebous.club,available,4.98,24.98,medium,low,7,namecheap,,,
+5ef334fc-eaf2-4757-8604-495315e09771,handicapped.club,premium,25.5,,medium,low,11,unstoppable,,,29/09/2026 03:14
 db375df4-9cb9-4203-bdcb-7a803d98e726,obdurate.club,premium,32.5,19.5,medium,low,8,namecheap,,,13/08/2026 12:15
 822a83bb-dcfa-492c-baa6-f6ba9cc8e9f5,salvific.club,premium,32.5,19.5,high,medium,8,namecheap,,,09/09/2026 21:03
 27a509ae-be5a-4e15-ba1f-1ccab18d0682,laval.club,resell,,,medium,low,5,,,,28/09/2026 05:09
 7ca32b64-5d57-4faa-8953-59b9cb078b6a,qtips.club,available,4.99,19.49,medium,low,6,namesilo,,,17/09/2026 10:12
 e2a9f2fe-2d13-44a0-8f21-05e9f02d3be3,goshawk.club,premium,29.5,17.7,medium,low,7,namesilo,,,16/09/2026 22:31
+8cae34de-eb00-4a25-86d5-07993d8cc3fb,decline.club,premium,,,medium,low,7,,,,28/09/2026 13:52
 3afea52f-29bd-427a-8446-77a75412dbb8,brimming.club,premium,29.5,17.7,medium,low,8,namesilo,,,11/08/2026 04:12
 fb89c353-a6a4-469f-8088-015b388ddce7,bari.club,premium,29.5,17.7,high,low,4,namesilo,,,22/09/2026 05:51
 0b2997a3-d16f-49c5-b334-7894303b2f75,baroness.club,premium,32.5,19.5,high,low,8,namecheap,,,22/09/2026 07:21
@@ -43,7 +48,7 @@ c8ee70c1-ff3a-4471-91f5-0a5b6fe30064,mob.club,premium,6500,19.5,high,low,3,namec
 13ef09e6-8894-4096-b0a7-9fd3ce8db1aa,unimagined.club,premium,29.5,17.7,medium,low,10,namesilo,,,12/09/2026 08:26
 6d2608d3-c6ab-48d4-9d08-972030a346cc,venezuelan.club,premium,53.92,17.7,high,low,10,namesilo,,,13/09/2026 02:04
 2459ea6c-74c2-4a60-bcc8-40825205f0bc,fetching.club,premium,29.5,17.7,high,low,8,namesilo,,,18/08/2026 02:20
-59e6513b-dd92-47e3-b9fa-a59b165f24e6,worth.club,premium,3349,,high,low,5,name.com,,,
+59e6513b-dd92-47e3-b9fa-a59b165f24e6,worth.club,premium,2500.5,,high,low,5,unstoppable,,,28/09/2026 11:03
 a933775f-c613-410f-af1b-c2ea52fa9e1a,discus.club,premium,116,17.7,high,low,6,namesilo,,,24/09/2026 22:35
 44edb125-b401-4cd7-a15f-e155a25456ea,woes.club,premium,29.5,17.7,low,low,4,namesilo,,,20/09/2026 07:52
 899342e6-d528-4e04-8df6-1e687271a00e,viet.club,resell,,,high,low,4,,,,27/09/2026 07:07
@@ -51,13 +56,14 @@ a933775f-c613-410f-af1b-c2ea52fa9e1a,discus.club,premium,116,17.7,high,low,6,nam
 1b64a1c1-16f2-4fdf-8e3d-9daec4d0a822,clipped.club,premium,29.5,17.7,high,low,7,namesilo,,,12/08/2026 11:16
 4958e4a4-0655-4e0a-9926-9837e3868fbd,reanimated.club,available,1.98,24.98,medium,low,10,namecheap,,,09/09/2026 10:58
 ae2c953f-8827-44e9-b30d-6acd467329a4,acrogen.club,available,4.99,19.49,medium,low,7,namesilo,,,17/09/2026 03:44
+cf41ba5b-1f6f-4bdf-981d-56c6ab54902c,generate.club,premium,1035.2,15.73,high,low,8,spaceship,,,28/09/2026 19:12
 03596a32-8bd1-4dbb-901b-697c98445cd0,tyke.club,premium,29.5,17.7,high,low,4,namesilo,,,25/08/2026 00:14
 60a5149b-1f2b-474c-a702-5a986ee41879,weighted.club,premium,53.92,17.7,high,low,8,namesilo,,,13/09/2026 10:08
 1f32fa1a-7af6-40cc-8666-5d3be639bca1,vienna.club,premium,960,17.7,high,low,6,namesilo,,,21/09/2026 04:57
 f230a051-cbd9-41d5-bfc8-c89543c62a02,formulaic.club,premium,29.5,17.7,medium,low,9,namesilo,,,18/08/2026 12:18
 c24a4d33-edc0-49e5-a563-33de68595d92,anouilh.club,available,4.99,19.49,medium,low,7,namesilo,,,19/09/2026 11:52
 ca9864b4-1804-434a-a43a-9524f3ca19c4,spidery.club,premium,29.5,17.7,medium,low,7,namesilo,,,06/08/2026 11:46
-535c8dd5-add6-46ad-9708-f747f8c8ea51,treatment.club,resell,,,high,low,9,"Spaceship, Inc.",07/05/2014 17:06,06/05/2027 23:59,26/09/2026 09:45
+535c8dd5-add6-46ad-9708-f747f8c8ea51,treatment.club,resell,,,high,low,9,"Spaceship, Inc.",07/05/2014 17:06,06/05/2027 23:59,28/09/2026 08:22
 9a80f7cd-aa4a-4761-a983-c2a7c4961482,alternate.club,premium,29.5,17.7,high,low,9,namesilo,,,22/09/2026 02:29
 8c0c5844-d02d-431d-802c-4c5eb59c3e9f,undone.club,premium,29.5,17.7,medium,low,6,namesilo,,,11/09/2026 01:55
 29a0a653-a3a9-4c7c-93a0-90b24e2bacbb,propulsion.club,premium,29.5,17.7,high,low,10,namesilo,,,17/09/2026 05:22
@@ -65,14 +71,19 @@ ca9864b4-1804-434a-a43a-9524f3ca19c4,spidery.club,premium,29.5,17.7,medium,low,7
 41e3f5a1-7eb7-463f-9116-1893febae2ef,romish.club,available,4.98,24.98,medium,low,6,namecheap,,,05/09/2026 01:30
 aeab0870-45e8-4d41-806c-fc3d7f9691be,truncate.club,available,1.98,24.98,high,low,8,namecheap,,,11/09/2026 20:40
 4af36581-193a-433b-90a5-4613b6d290f0,vowels.club,premium,29.5,17.7,medium,low,6,namesilo,,,20/09/2026 00:07
-cd6d4466-d0d7-46de-b2e2-e21f547678ac,northwest.club,resell,,,high,low,9,"Spaceship, Inc.",09/04/2022 00:00,09/04/2027 00:00,26/09/2026 07:48
+e9ef92df-bd14-43ab-a862-050f8875df40,britton.club,premium,26.08,15.73,medium,low,7,spaceship,,,28/09/2026 12:10
+cd6d4466-d0d7-46de-b2e2-e21f547678ac,northwest.club,resell,,,medium,low,9,"Spaceship, Inc.",09/04/2022 00:00,09/04/2027 00:00,28/09/2026 17:00
 151a1f5d-4597-4dd4-be15-a19f446e7485,positive.club,resell,,,high,low,8,UM Domains Pte. Ltd.,21/07/2026 00:01,21/07/2027 00:01,26/09/2026 08:15
 32ab0f18-d22a-4a2e-8639-467df668415d,becomes.club,premium,29.5,17.7,medium,low,7,namesilo,,,27/09/2026 10:31
-c5a975b1-ba5b-4347-b1ba-e4f5d7017dea,accompanying.club,premium,32.5,19.5,high,low,12,namecheap,,,25/09/2026 03:29
+ddce8109-e056-4c3a-bde0-c43778be1313,challenger.club,premium,,,high,low,10,Porkbun,30/05/2018 15:18,30/05/2027 15:18,29/09/2026 06:18
+c5a975b1-ba5b-4347-b1ba-e4f5d7017dea,accompanying.club,premium,32.5,19.5,medium,low,12,namecheap,,,29/09/2026 06:23
+c017d7b8-ffbe-49bb-a2f2-66ec228b00f2,medford.club,premium,,,high,low,7,,,,28/09/2026 10:21
 e0670606-7e94-4294-af87-d56b525cf6ca,cleanly.club,premium,29.5,17.7,high,low,7,namesilo,,,12/08/2026 10:21
 b752d6b6-7c69-4a8c-b9d7-239c3a363104,poll.club,premium,960,17.7,high,low,4,namesilo,,,
 38e98a6d-b794-4a9d-9288-9ac27c7752d6,darwinian.club,premium,33.49,20.09,medium,low,9,name.com,,,13/08/2026 18:25
-f9ab8587-ec9a-4350-adbd-3989c8056a3e,bye.club,premium,224,17.7,high,low,3,namesilo,,,
+41ac1eb9-a71e-4c50-bbf7-fa3c511e1d4d,hemisphere.club,premium,103.7,15.73,high,low,10,spaceship,,,29/09/2026 06:17
+6e574d06-1dc3-4f35-8e99-e74b809fc6b6,kingston.club,premium,,,high,low,8,,,,29/09/2026 00:19
+f9ab8587-ec9a-4350-adbd-3989c8056a3e,bye.club,premium,224,17.7,high,low,3,namesilo,,,28/09/2026 18:38
 1fb206cf-9d9d-4080-94ba-e4fd03b2ca56,worshipful.club,premium,29.5,17.7,high,low,10,namesilo,,,
 7ab2afb4-26b7-4fff-8cf2-ece4de8d99d8,doubtless.club,premium,29.5,17.7,high,low,9,namesilo,,,14/09/2026 13:54
 a3182c3c-4b06-4af0-a76c-a439f65f73ba,athanasius.club,available,4.98,24.98,medium,low,10,namecheap,,,20/09/2026 20:26
@@ -96,14 +107,15 @@ d2d03302-9e31-4242-94b4-0f91d740f93a,prater.club,resell,,,medium,low,6,InternetX
 c82b4876-d544-4e10-abc7-0214a636252a,mackay.club,premium,29.5,17.7,medium,low,6,namesilo,,,25/09/2026 16:20
 e33ea7b2-cd34-4993-b66d-2eae23a9b377,quitting.club,resell,,,medium,low,8,"GoDaddy.com, LLC",12/06/2016 15:08,11/06/2031 23:59,26/09/2026 08:27
 3f295c3c-c608-4bd4-b873-32a98947c5fc,stormy.club,resell,,,medium,low,6,"NameSilo, LLC",18/02/2015 01:48,17/02/2027 23:59,28/09/2026 01:11
+c9961810-8a9e-4fff-b89a-0eb662c682f7,lps.club,premium,224,17.7,high,low,3,namesilo,,,28/09/2026 11:44
 18a38673-1594-4806-b694-836a6951fdb9,homophobic.club,premium,29.5,17.7,medium,low,10,namesilo,,,21/08/2026 13:04
-4c524b2d-bf73-48e8-8fba-dfe1471825cb,uproar.club,premium,33.49,,high,low,6,name.com,,,
+4c524b2d-bf73-48e8-8fba-dfe1471825cb,uproar.club,premium,25.5,,medium,low,6,unstoppable,,,29/09/2026 04:35
 fde95943-5790-4096-8eda-a53db88b97ea,belting.club,premium,32.5,19.5,high,low,7,namecheap,,,23/09/2026 07:06
 cfc4a582-1824-4603-88e1-ab0d56996ed5,gradually.club,premium,29.5,17.7,medium,low,9,namesilo,,,14/09/2026 22:00
 51e6852e-43f2-4210-b04a-c4816dfec24c,lxvi.club,available,4.98,24.98,medium,low,4,namecheap,,,
 2949fb5c-3570-44c3-a2f4-b7130d02dc14,soled.club,available,1.98,24.98,medium,low,5,namecheap,,,10/09/2026 13:35
 9977f1f9-2a2a-46f4-9f86-989fc83b97aa,algerie.club,resell,,,high,low,7,IONOS SE,08/01/2020 23:02,08/01/2027 23:02,26/09/2026 03:47
-bb66dba0-c401-4029-b46d-c962886ef3de,injure.club,premium,29.5,17.7,medium,low,6,namesilo,,,
+bb66dba0-c401-4029-b46d-c962886ef3de,injure.club,premium,29.5,17.7,medium,low,6,namesilo,,,28/09/2026 11:07
 351fe7d7-8d90-4ac0-8250-f2a56ce023e9,grubby.club,premium,29.5,17.7,medium,low,6,namesilo,,,09/08/2026 09:31
 bf521269-6ad7-4cad-bad1-df57e46d2f99,diversely.club,available,1.98,24.98,medium,low,9,namecheap,,,14/09/2026 13:25
 4c30bdd5-f9b8-4e9f-bbd1-c13d8570c73b,object.club,premium,53.92,17.7,high,low,6,namesilo,,,19/09/2026 05:21
@@ -121,6 +133,7 @@ f847d75f-3457-4b98-90a8-6e8366ed2f95,spareribs.club,premium,29.5,17.7,high,low,9
 932982e4-109a-4758-bf8b-3d3a2900006c,glued.club,premium,116,17.7,high,low,5,namesilo,,,20/08/2026 15:12
 0b9174b5-2bf9-45d7-9cd1-bf8c14fe83cd,pregnant.club,premium,1300,19.5,high,low,8,namecheap,,,25/09/2026 18:23
 e626d395-d6dc-48fc-8835-aa9dc65b50d7,pained.club,premium,29.5,17.7,medium,low,6,namesilo,,,04/09/2026 01:26
+81fc21ce-84c6-4b79-aedc-597951719f45,darryl.club,available,20.5,,medium,low,6,unstoppable,,,28/09/2026 21:59
 43c77426-048b-4f2b-bc8b-fc60bb3c525a,crocked.club,available,1.98,24.98,low,low,7,namecheap,,,09/08/2026 15:34
 6b748ffa-cd31-4198-8521-7acacb871e85,pluton.club,premium,29.5,17.7,medium,low,6,namesilo,,,22/09/2026 13:46
 34ec8ad4-3e50-4292-a9fc-a0288888a14c,crossways.club,premium,29.5,17.7,medium,low,9,namesilo,,,14/09/2026 09:48
@@ -154,6 +167,7 @@ dc539d3f-89f2-4689-8880-e931b551565c,stadium.club,premium,1107,17.7,high,low,7,n
 ca50fdea-7bb9-451b-bea7-849551ab157c,undreamt.club,available,1.98,24.98,medium,low,8,namecheap,,,12/09/2026 08:24
 8ade8dbd-b161-4826-84b1-e59ce23e2ce4,droning.club,premium,29.5,17.7,medium,low,7,namesilo,,,25/08/2026 05:28
 72e5753a-dad8-4944-b925-b17ba133c107,blixen.club,available,4.99,19.49,medium,low,6,namesilo,,,22/09/2026 07:24
+9e936c61-42ca-4987-8e5e-433c8945d3b7,dalton.club,premium,116,17.7,high,low,6,namesilo,,,28/09/2026 13:51
 080371b7-4526-450f-82c0-01e8a016779d,recalled.club,premium,32.5,19.5,medium,low,8,namecheap,,,18/09/2026 02:40
 9c7edebe-c4ce-468a-ae14-f750d6a59472,mckinley.club,premium,116,17.7,high,low,8,namesilo,,,25/09/2026 04:51
 93850910-5bf7-4391-bafa-d43f15242a0c,stale.club,premium,32.5,19.5,medium,low,5,namecheap,,,10/09/2026 18:24
@@ -173,6 +187,7 @@ c94655c9-7b72-4b81-a0d9-8410cec5ea0b,eyestrain.club,premium,32.5,19.5,medium,low
 e40dd6b2-0d70-4805-84c8-7ef6baa17723,airman.club,premium,32.5,19.5,high,low,6,namecheap,,,17/09/2026 13:10
 2d5b43d1-756c-402b-b938-bb94628650fa,basso.club,premium,29.5,17.7,medium,low,5,namesilo,,,22/09/2026 11:59
 e6720203-c073-44d4-b64c-4e6441ec4afd,caisson.club,premium,32.5,19.5,medium,low,7,namecheap,,,18/09/2026 22:17
+30d7a60d-76b7-4d95-8d95-d000e9c65f47,kev.club,premium,,,high,low,3,,,,29/09/2026 03:20
 24af7ed4-9057-4d5c-a09b-29af6534c913,hiemal.club,available,1.98,24.98,medium,low,6,namecheap,,,11/08/2026 06:40
 9c76b35b-277a-413e-86b8-9be4a6da8949,balmoral.club,premium,29.5,17.7,high,low,8,namesilo,,,21/09/2026 23:39
 8f60f3e7-3955-47e3-b18d-639b791a186c,pectoral.club,premium,29.5,17.7,high,low,8,namesilo,,,08/09/2026 11:58
@@ -180,11 +195,13 @@ f02122ef-e5f9-4e1e-97a3-358d4fa52a23,blackfish.club,premium,29.5,17.7,medium,low
 f7430b92-d5b9-4e41-953d-3d108835f76f,balloonist.club,premium,29.5,17.7,medium,low,10,namesilo,,,21/09/2026 23:14
 8e0347a8-93a1-4d9c-bdd6-e313afa1ed4b,networks.club,premium,960,17.7,high,low,8,namesilo,,,19/09/2026 17:41
 6dd7c078-7181-467a-80d1-bc45019f41ef,subtly.club,premium,32.5,19.5,medium,low,6,namecheap,,,16/09/2026 07:33
+cb250fd2-9e4e-4f0e-bdce-8616350596e9,ernesto.club,premium,103.7,15.73,medium,low,7,spaceship,,,28/09/2026 07:52
 66005ae6-b02e-40ef-af85-9d6ac2dca85c,easterly.club,premium,29.5,17.7,medium,low,8,namesilo,,,14/08/2026 22:51
 2e01ed96-c72a-41d9-925d-6f07d6ff26d3,minatory.club,available,1.99,26.99,low,low,8,name.com,,,24/08/2026 19:58
 c87a0061-634d-4c36-81bc-2cabb467f300,enemies.club,premium,65,19.5,medium,low,7,namecheap,,,25/09/2026 17:51
 5b9afb8f-17d4-42be-9a69-86a68a65b234,sublimate.club,available,1.98,24.98,medium,low,9,namecheap,,,11/09/2026 00:01
 505c4f04-4bd8-4e0b-aa19-b42b442cff5e,mountains.club,premium,1339.6,20.09,medium,low,9,name.com,,,17/09/2026 17:48
+e586fe76-269c-43f4-8f0b-9b69f39c5554,isabel.club,premium,258.95,15.73,high,low,6,spaceship,,,28/09/2026 16:24
 0f502834-2b9a-4b4f-a322-5c2b1a406f84,musts.club,premium,32.5,19.5,low,low,5,namecheap,,,19/09/2026 21:45
 422a2aa1-8c32-4778-87c6-aa775d0e853d,dessert.club,premium,1035.2,15.73,high,low,7,spaceship,,,28/09/2026 02:48
 993c5199-acdb-4c45-8ab0-fc84ea77d93b,limpkin.club,available,4.99,19.49,medium,low,7,namesilo,,,19/09/2026 23:59
@@ -203,6 +220,7 @@ ce84ff4a-b956-4fd9-95e8-fae5afd061e1,balefire.club,available,4.99,19.49,medium,l
 116185ff-74b9-4863-9e12-e0315a5f374c,tauten.club,available,2.19,19.49,medium,low,6,namesilo,,,18/08/2026 05:16
 c7f279c1-8f62-4c4e-9571-c4e45040083f,victims.club,premium,325,19.5,medium,low,7,namecheap,,,18/09/2026 21:07
 d2d6d350-59d4-4885-9421-5f8e3ac9a1a0,coiled.club,premium,29.5,17.7,medium,low,6,namesilo,,,12/08/2026 16:07
+9c7251a0-6870-4083-a758-32975010e9b8,manslaughter.club,premium,29.5,17.7,medium,low,12,namesilo,,,28/09/2026 22:46
 21c286cf-c2bd-4f7e-88dc-6c50a68fd527,patchy.club,premium,29.5,17.7,medium,low,6,namesilo,,,08/09/2026 10:20
 aedf6a50-fdb8-457c-9510-130af742479f,perforate.club,available,1.98,24.98,high,low,9,namecheap,,,08/09/2026 16:54
 c7165a21-8301-48fb-81e3-44a2a15d6bbf,umbilicus.club,premium,29.5,17.7,medium,low,9,namesilo,,,23/09/2026 06:37
@@ -216,9 +234,12 @@ f26ef0e7-6ab2-44a7-aef5-95b258977c49,miniskirt.club,premium,29.5,17.7,high,low,9
 90924fe5-4027-4c4e-8e54-b77ca1537256,mimetic.club,premium,29.5,17.7,medium,low,7,namesilo,,,24/08/2026 23:27
 a25ead5f-e52d-4d66-9048-f8bc379f7b65,revered.club,premium,26.08,15.73,high,low,7,spaceship,,,27/09/2026 14:02
 13683cf9-18f1-40b0-a96c-d3a7124daca1,infrared.club,premium,29.5,17.7,high,low,9,namesilo,,,
+d32173cd-04e2-40f5-a8b3-591cfb635fde,flare.club,resell,,,high,low,5,,,,29/09/2026 00:57
 60d7ad3c-7df0-4e37-b92a-f2378fff1915,pricy.club,premium,29.5,17.7,medium,low,5,namesilo,,,21/08/2026 08:58
 d4523006-fcd9-4bf6-a5e4-808459ba7c56,upcoming.club,premium,960,17.7,high,low,8,namesilo,,,06/08/2026 08:39
 ece887bf-eec1-4f88-b323-de70aa549bf1,badness.club,premium,29.5,17.7,medium,low,7,namesilo,,,08/08/2026 07:23
+2a7a35a6-ea94-4c80-a7fb-14c12aa27792,publisher.club,premium,,,high,low,9,,,,28/09/2026 10:33
+bf249c6f-d1ad-4be4-9002-614023d6a23a,luz.club,premium,181.33,15.73,medium,low,3,spaceship,,,28/09/2026 21:47
 787780a2-c107-4c4d-8b4a-1c37888bb510,barstow.club,available,4.98,24.98,medium,low,7,namecheap,,,22/09/2026 08:54
 1afe5a2a-8011-426a-863e-f9b09855bc7c,asama.club,available,4.99,19.49,medium,low,5,namesilo,,,20/09/2026 12:47
 a040ee4c-0f1c-4fcc-b95a-22e3f07d4db9,cxxv.club,available,4.98,24.98,medium,low,4,namecheap,,,
@@ -236,6 +257,8 @@ d519964e-26f3-41f5-adf7-8a0b99cf1913,grumbler.club,available,4.99,19.49,medium,l
 b6567d42-4119-4422-a13f-13df515753f0,piggish.club,available,2.19,19.49,medium,low,7,namesilo,,,21/08/2026 10:18
 313ae0e0-c853-4da4-9e96-9988e501a1cc,rhoda.club,available,4.99,19.49,high,low,5,namesilo,,,
 316b947f-8f0b-4bb6-820e-7ac11038c57c,repulse.club,premium,29.5,17.7,high,medium,7,namesilo,,,10/09/2026 12:48
+613f4957-4b87-48e5-9401-8dde3582dca7,occasional.club,premium,26.08,15.73,medium,low,10,spaceship,,,28/09/2026 11:16
+0a0c536a-5060-4e3b-8b30-9536b2622f9b,danzig.club,premium,26.08,15.73,medium,low,6,spaceship,,,28/09/2026 09:29
 d3f18334-86eb-4164-8b3b-275590bd710f,tacitly.club,premium,32.5,19.5,medium,low,7,namecheap,,,16/09/2026 07:43
 b945cfe3-28ea-45b4-ade4-c3751b04e0b5,vacantly.club,premium,29.5,17.7,low,low,8,namesilo,,,16/09/2026 10:32
 11400a28-c3a4-479d-943c-f049bb7b6435,amazement.club,premium,29.5,17.7,high,low,9,namesilo,,,18/09/2026 16:18
@@ -244,13 +267,14 @@ b16203e8-70fc-47b0-8884-42c3012e6c13,weekly.club,premium,1107,17.7,high,low,6,na
 86b8e2d9-1b77-4b86-b188-615f6eb90720,avaricious.club,premium,29.5,17.7,medium,low,10,namesilo,,,07/08/2026 21:48
 56382f78-d429-4554-bec6-3b7d3fcee5a8,dvorak.club,available,4.99,19.49,medium,low,6,namesilo,,,19/09/2026 15:32
 5e266436-f994-441c-8b97-4888d744702e,guttural.club,premium,29.5,17.7,medium,low,8,namesilo,,,13/08/2026 07:31
-fdf8d317-2a9b-43f8-8f7a-9d52b528d7b3,calf.club,premium,960,17.7,high,low,4,namesilo,,,
+fdf8d317-2a9b-43f8-8f7a-9d52b528d7b3,calf.club,premium,750.5,17.7,high,low,4,unstoppable,,,29/09/2026 05:52
 62061ac9-136b-41da-b6c6-71742d9455fc,blowhard.club,premium,29.5,17.7,medium,low,8,namesilo,,,11/08/2026 01:19
 7aae236a-3f9e-40d6-86f3-735d9f5f65a3,rancorous.club,premium,29.5,17.7,high,medium,9,namesilo,,,09/09/2026 10:13
 d8284534-fc51-4f17-8243-00bcb3b435f8,peel.club,premium,53.92,17.7,high,low,4,namesilo,,,
 a7aba7d2-66e7-4d31-bae1-73e3d617c9b2,cover.club,resell,,,high,low,5,Porkbun,16/01/2021 21:10,16/01/2027 21:10,26/09/2026 05:17
 c06bdd1c-5094-4122-9527-b463cede1ec0,shakira.club,available,4.99,19.49,high,low,7,namesilo,,,
 6563fbb9-1b52-402e-9996-a98de2f10a1e,blameless.club,premium,29.5,17.7,high,low,9,namesilo,,,10/08/2026 12:53
+9e87c0ff-fa2c-49d3-aa65-9312dc1f04dd,oss.club,premium,192.5,15.96,high,low,3,dynadot,,,28/09/2026 21:16
 5ac6f9e2-984d-4db5-aa89-8eac82e00800,growing.club,premium,302.5,17.7,high,low,7,namesilo,,,19/09/2026 05:23
 2ecf8d51-6c8a-401c-ae6a-5acf26d4b74b,necessity.club,premium,29.5,17.7,high,low,9,namesilo,,,24/09/2026 15:20
 93617ff0-2ced-4db7-8465-77ca498ba9f6,foetal.club,premium,29.5,17.7,medium,low,6,namesilo,,,18/08/2026 02:18
@@ -282,7 +306,7 @@ f7720708-3d20-4063-b48d-96a67eed10f1,scorned.club,premium,29.5,17.7,medium,low,7
 64090d6a-a487-4892-818b-6b08bfe0dc4c,enclosed.club,premium,29.5,17.7,medium,low,8,namesilo,,,16/08/2026 22:21
 6cf37834-b603-4166-86c1-e2d044e59604,arugula.club,premium,29.5,17.7,medium,low,7,namesilo,,,20/09/2026 12:10
 d7e4a12b-bebd-4bfc-b62e-32b0bf7a02ae,styptic.club,available,1.98,24.98,medium,low,7,namecheap,,,07/08/2026 10:00
-c7352a4f-7ff9-4793-8ac0-60cbfc40b0c7,upward.club,premium,960,17.7,high,low,6,namesilo,,,
+c7352a4f-7ff9-4793-8ac0-60cbfc40b0c7,upward.club,premium,776.45,15.73,high,low,6,spaceship,,,28/09/2026 09:54
 09a6d128-a91a-4234-bb88-5001055a0e85,whoreson.club,available,1.98,24.98,low,low,8,namecheap,,,08/08/2026 23:43
 ff964c25-b8c9-4e15-a2bc-a75bfef30ac1,deception.club,premium,1107,17.7,high,low,9,namesilo,,,24/09/2026 17:22
 3e094b0b-abdc-4e76-a6b9-8030b86199ac,acidosis.club,premium,29.5,17.7,medium,low,8,namesilo,,,17/09/2026 01:28
@@ -294,11 +318,14 @@ fb5955d3-e724-475c-8290-3955299a8959,tenths.club,premium,29.5,17.7,medium,low,6,
 1d782456-b2af-4317-869d-cd9efb800b50,gyral.club,available,4.98,24.98,medium,low,5,namecheap,,,20/08/2026 21:19
 44cbd6e1-ac12-456a-a8eb-cb015bbcbbba,sour.club,premium,116,17.7,high,low,4,namesilo,,,20/08/2026 15:04
 4fb58bb0-87de-42e4-ae05-66be28f357c0,ornate.club,premium,32.5,19.5,high,low,6,namecheap,,,04/09/2026 17:59
+95f97e87-704c-4a1c-9ea6-edcc0e9f8cb0,probability.club,premium,975,19.5,high,low,11,namecheap,,,28/09/2026 17:11
 57b2cc0b-4ab2-4d99-844f-5793e55b64fa,cia.club,premium,227.5,19.5,high,medium,3,namecheap,,,24/09/2026 13:36
 bf9ce02c-1e99-4575-92e7-053186f09a98,chivalrous.club,premium,29.5,17.7,high,low,10,namesilo,,,12/08/2026 06:14
 2d16cca9-4df0-48c9-bdc7-094cd3b6d9f7,consequences.club,premium,29.5,17.7,high,low,12,namesilo,,,27/09/2026 08:40
-d8519657-e0d9-4108-9135-cc2597dec7bc,wide.club,premium,960,17.7,high,low,4,namesilo,,,21/09/2026 16:15
+d8519657-e0d9-4108-9135-cc2597dec7bc,wide.club,premium,960,17.7,high,low,4,namesilo,,,28/09/2026 16:18
+f2657948-1611-4d37-9d26-1856519ee256,torino.club,resell,,,high,low,6,,,,29/09/2026 02:19
 5dc46a3d-dbd2-4a3b-b0b5-041628993acb,inordinate.club,premium,29.5,17.7,medium,low,10,namesilo,,,17/08/2026 16:17
+95d57a6f-6eb1-4a8b-8c1a-e85af04fac53,liberation.club,premium,776.45,15.73,high,low,10,spaceship,,,28/09/2026 14:14
 5e0ae768-0f56-447c-890c-f0dc48357286,senatorial.club,premium,29.5,17.7,medium,low,10,namesilo,,,10/09/2026 03:38
 b0b03e7b-d8cf-4abe-93cb-102d02c83313,impossibly.club,premium,29.5,17.7,medium,low,10,namesilo,,,15/09/2026 04:27
 4cd69a6e-ffa9-45fd-9bad-ad1b6dc2de62,working.club,premium,1107,17.7,high,low,7,namesilo,,,19/09/2026 07:09
@@ -316,16 +343,21 @@ a355bef2-4b40-41f4-aa1c-eaf19cadb6bd,scalable.club,resell,,,high,low,8,"GoDaddy.
 7aeade86-ae80-4119-b038-344ef9e69a3a,designedly.club,available,1.98,24.98,medium,low,10,namecheap,,,13/09/2026 17:33
 9ee98247-d0fd-465e-bcd2-d9e1518aff19,declare.club,premium,975,19.5,high,low,7,namecheap,,,27/09/2026 16:32
 8b68e001-936c-4e4e-926e-aa67df178c01,sticky.club,resell,,,high,low,6,101domain GRS Limited,21/05/2014 20:25,20/05/2027 23:59,26/09/2026 09:18
+75b40f17-c21c-47f2-8a48-3f345e72c89d,ehrlich.club,available,15.2,15.2,medium,low,7,cloudflare,,,29/09/2026 00:46
 5ea8eb5f-7516-4384-a51d-0f1649a0cf35,unopen.club,available,1.98,24.98,medium,low,6,namecheap,,,10/09/2026 07:06
 19bc4f14-5b76-4e27-88e9-18888b579f9f,andradite.club,available,4.99,19.49,medium,low,9,namesilo,,,19/09/2026 04:09
 b4bd09e9-6152-4539-8210-fb9870b70577,unladylike.club,premium,29.5,17.7,medium,low,10,namesilo,,,12/09/2026 14:39
 45d67b14-a133-4724-81ec-cf7599c88552,illusory.club,premium,32.5,19.5,medium,low,8,namecheap,,,21/08/2026 20:15
 d3488b98-a4cc-4e41-9f33-b3fd1900e094,trial.club,premium,133.96,,high,low,5,name.com,,,
+dc0973ea-4603-434a-aae1-6d965d6d6653,enlisted.club,premium,26.08,15.73,medium,low,8,spaceship,,,28/09/2026 22:48
 e455bddb-f3fd-422c-a563-4cf429f6b0c1,tiddly.club,available,1.98,24.98,medium,low,6,namecheap,,,11/09/2026 15:36
+b7a3101e-d980-496c-9fd3-2931f7aeb5df,lectures.club,premium,,,low,low,8,,,,29/09/2026 05:25
 c3ecf061-7fc9-47f7-807e-0db4ff9c43b7,conical.club,premium,32.5,19.5,high,low,7,namecheap,,,12/08/2026 20:41
 fffb48cd-2680-49b3-bc16-9c722091074b,georgetown.club,resell,,,high,low,10,"GoDaddy.com, LLC",18/01/2021 05:57,18/01/2027 05:57,26/09/2026 06:22
+2d10bbc5-94cc-46ed-8bdc-bf095dfb9565,gmt.club,premium,181.33,15.73,medium,low,3,spaceship,,,28/09/2026 14:18
 4602af24-1517-414f-bf52-512fc8c301b0,boxlike.club,premium,29.5,17.7,medium,low,7,namesilo,,,10/08/2026 23:56
 673440ff-a382-4189-8954-e11b423daa3f,nicely.club,premium,960,17.7,high,low,6,namesilo,,,15/09/2026 16:32
+0a57ea67-0d4a-4934-8990-1e6a6875eaee,trujillo.club,premium,,,medium,low,8,,,,28/09/2026 16:38
 3bf7ab4c-d0b8-4115-86d7-5ac83ee2581b,scaly.club,premium,29.5,17.7,medium,low,5,namesilo,,,23/08/2026 00:05
 3625e688-ee82-4f80-80e1-b49e9154012a,ageless.club,resell,,,high,low,7,"Sav.com, LLC - 22",03/04/2026 00:00,03/04/2027 00:00,26/09/2026 01:26
 cf79504a-8b0f-49d0-86d6-51ed6814ddab,biont.club,available,4.98,24.98,medium,low,5,namecheap,,,23/09/2026 18:48
@@ -374,7 +406,11 @@ e2bd1b8d-42c8-49ad-9199-1f74b4dad3c2,descendent.club,premium,29.5,17.7,medium,lo
 87736526-39e6-4bab-9482-202a70d5806e,asynchrony.club,available,4.99,19.49,medium,low,10,namesilo,,,20/09/2026 18:41
 3aa199a9-95ff-4172-9aa8-e1404bff4986,numbing.club,premium,29.5,17.7,medium,low,7,namesilo,,,03/09/2026 22:49
 b2fbbdfe-a370-449f-9626-d729f131d97c,abandon.club,premium,29.5,17.7,high,low,7,namesilo,,,24/09/2026 08:17
+15c9670c-4b44-4438-b46e-28ffc499c2d3,communicating.club,premium,26.08,15.73,medium,low,13,spaceship,,,28/09/2026 17:54
+583b538a-55dc-41dd-a6dd-d9c112f92552,pupils.club,premium,103.7,15.73,low,low,6,spaceship,,,28/09/2026 17:49
+4e35ab26-f15d-4d68-bb5c-03cd3306366b,orphans.club,premium,,,low,low,7,,,,28/09/2026 18:19
 ffd8848b-6208-4e67-badc-839d18fe25b5,appanage.club,available,4.99,19.49,medium,low,8,namesilo,,,19/09/2026 16:11
+c9cb6e2f-0cc8-45f0-a3d1-fd816977e999,warrington.club,available,15.2,15.2,medium,low,10,cloudflare,,,28/09/2026 07:51
 e0609751-83ee-4cc0-967f-a39cf8743011,relapsing.club,available,1.98,24.98,medium,low,9,namecheap,,,09/09/2026 16:17
 0d933918-ef61-45a1-90cb-7f23c38610ec,slithering.club,premium,29.5,17.7,medium,low,10,namesilo,,,10/09/2026 11:07
 fb42aa5c-b99b-4e22-8450-6e37063e4bfe,exhusband.club,premium,116,17.7,medium,low,10,namesilo,,,17/08/2026 15:21
@@ -383,7 +419,7 @@ eb75e10d-2913-46df-bee2-eb2da9704604,jehovah.club,available,4.98,24.98,high,low,
 bd49368d-e742-49c0-bb16-73196825e2d3,observance.club,premium,29.5,17.7,high,low,10,namesilo,,,12/08/2026 00:35
 a8845362-3847-4c44-b5fe-8724da3ce37b,stranger.club,premium,1004.7,,high,low,8,name.com,,,
 d391e7ea-bb61-447f-b4be-3256c626dd26,spineless.club,premium,29.5,17.7,medium,low,9,namesilo,,,22/08/2026 08:58
-3bc221f7-26dc-427d-861a-3387b2457254,possibly.club,premium,33.49,,high,low,8,name.com,,,
+3bc221f7-26dc-427d-861a-3387b2457254,possibly.club,premium,32.5,19.5,medium,low,8,namecheap,,,28/09/2026 16:14
 bdae1578-bcb8-44f6-a6be-f4acbef55023,applicator.club,premium,29.5,17.7,medium,low,10,namesilo,,,19/09/2026 21:55
 01885847-29c0-40e4-b7d8-546ec0693dd2,ramble.club,premium,116,17.7,high,low,6,namesilo,,,10/09/2026 22:10
 f844269e-e529-4f20-8431-9f57c87050f8,innate.club,premium,29.5,17.7,high,low,6,namesilo,,,12/08/2026 21:44
@@ -405,16 +441,18 @@ e66a7a36-682b-4a7a-b1ac-6cbd56391c7e,horizontal.club,premium,29.5,17.7,high,low,
 cbb82b47-8434-49de-b6ed-a6edfbc01f25,whitefish.club,premium,29.5,17.7,medium,low,10,namesilo,,,
 1be02cd5-4e50-4124-a6e1-4147cda30746,des.club,premium,234.43,,high,low,3,name.com,,,
 84607207-447d-4e42-914d-3777d438be44,years.club,premium,133.96,,high,low,5,name.com,,,
+0acf0879-7d65-4255-a810-0181d4c2cea3,innovate.club,resell,,,high,low,8,,,,29/09/2026 02:37
 3913502d-9199-4312-828e-8b7c163d3f67,argonauta.club,available,4.99,19.49,medium,low,9,namesilo,,,20/09/2026 04:32
 18071c93-3b3a-4631-9fa8-965face18ec6,animalism.club,available,4.99,19.49,medium,low,9,namesilo,,,19/09/2026 08:55
 19db9023-ee4a-4cd7-b4c5-b3993578226b,atheism.club,premium,130,19.5,medium,low,7,namecheap,,,20/09/2026 20:31
 73e5f71e-d5dc-479b-bc92-d2994ecf504e,herman.club,premium,,,high,low,6,,,,28/09/2026 02:07
 7f7c3ed0-4141-4733-b51e-8b81b6a1248d,guards.club,premium,53.92,17.7,high,low,6,namesilo,,,
-a605e0ea-dc22-4d8e-826b-bcee261cfdaa,sciences.club,premium,116,17.7,medium,low,8,namesilo,,,
+a605e0ea-dc22-4d8e-826b-bcee261cfdaa,sciences.club,premium,109.69,16.9,medium,low,8,porkbun,,,28/09/2026 07:41
 ca2ab350-6afa-4e9f-ae99-3c1d7f33802a,unpainted.club,premium,29.5,17.7,medium,low,9,namesilo,,,12/09/2026 16:25
 d38fb435-3851-4106-86bd-15d6a5df9e04,acinic.club,available,4.98,24.98,medium,low,6,namecheap,,,
 73eefb65-c03d-4b87-8351-813fabc73916,dyed.club,premium,29.5,17.7,high,low,4,namesilo,,,14/08/2026 21:54
 8e12006b-a9bc-4f32-86cc-e36b73ebea06,sheets.club,premium,1107,17.7,medium,low,6,namesilo,,,27/09/2026 02:20
+6a7cc536-d440-4485-a29d-c50f4fed4e6a,disposition.club,premium,26.08,15.73,high,low,11,spaceship,,,29/09/2026 02:57
 6e22f8c1-6576-4655-927f-8ad8473006ae,inevitably.club,premium,29.5,17.7,medium,low,10,namesilo,,,15/09/2026 08:09
 24defe93-c582-4dc4-a88b-420a237c277d,batty.club,premium,29.5,17.7,medium,low,5,namesilo,,,06/08/2026 20:35
 07e3d3ee-a725-484b-9921-9d81faf7ec53,adenovirus.club,premium,33.49,20.09,medium,low,10,name.com,,,17/09/2026 07:41
@@ -424,6 +462,7 @@ b1b5d512-95e1-40a0-8652-e20616beb46a,phony.club,premium,29.5,17.7,medium,low,5,n
 750a4382-1276-44b8-b2a3-b7111a4c7a2b,lottery.club,premium,3349,,high,low,7,name.com,,,
 c6cad7db-2c23-49db-a6a1-ac533312d475,honest.club,premium,960,17.7,high,low,6,namesilo,,,21/08/2026 13:19
 0fe578c8-a46c-460b-814a-897bb67b0844,octuple.club,available,4.98,24.98,medium,low,7,namecheap,,,15/08/2026 21:25
+37b1b59d-8aa9-4bb7-9867-01e2f93c06d1,premises.club,premium,25.5,,medium,low,8,unstoppable,,,28/09/2026 15:06
 b1b65937-27e6-46fd-839a-d4644ec95713,pretender.club,premium,32.5,19.5,high,low,9,namecheap,,,08/09/2026 19:12
 90060fbe-e2e1-447b-8113-9eb65b93d16a,antecedent.club,premium,29.5,17.7,high,low,10,namesilo,,,
 a1fb087a-75f4-407a-a11b-49effaa3a2a6,wheat.club,premium,26.08,15.73,high,low,5,spaceship,,,28/09/2026 06:34
@@ -431,6 +470,7 @@ a1fb087a-75f4-407a-a11b-49effaa3a2a6,wheat.club,premium,26.08,15.73,high,low,5,s
 029daafa-3510-4764-8d46-c5121549a8f4,bernard.club,premium,116,17.7,medium,low,7,namesilo,,,23/09/2026 09:46
 05879cc5-ea00-4499-be66-d49bcac49555,ebonics.club,premium,33.49,20.09,medium,low,7,name.com,,,16/09/2026 13:39
 1905bf84-914c-4690-845e-f1a2ba6e32e0,lopsided.club,premium,29.5,17.7,medium,low,8,namesilo,,,07/08/2026 03:41
+b01834dd-c9f2-4098-abc2-6c4567295118,abigail.club,premium,302.5,17.7,medium,low,7,namesilo,,,29/09/2026 02:47
 d22b8076-01fd-4ed7-b4e7-b04d2bcad8ff,trevor.club,resell,,,high,low,6,Dynadot Inc,18/01/2021 19:45,18/01/2027 19:45,26/09/2026 09:45
 5c5f775b-dcd9-4c45-9780-76ed3c66f189,male.club,premium,3450,17.7,high,low,4,namesilo,,,25/09/2026 16:34
 e9bb8b83-758a-49a1-b7e7-ecc89c13f10d,rican.club,available,4.99,19.49,high,low,5,namesilo,,,25/09/2026 13:13
@@ -456,12 +496,16 @@ dc60939a-0881-4c56-aad8-652c73cc7a4c,erotic.club,premium,6500,19.5,high,low,6,na
 17b6e4f9-b33f-4be7-a9e0-d7726222e69f,analgesia.club,premium,29.5,17.7,medium,low,9,namesilo,,,19/09/2026 01:49
 17b5101e-be14-4fac-a139-0ad3e5a3036f,anergy.club,available,4.98,24.98,medium,low,6,namecheap,,,19/09/2026 05:29
 4a7b3c6f-1c9f-47b3-b9db-6c27927ca58b,prussian.club,premium,29.5,17.7,high,low,8,namesilo,,,09/09/2026 04:50
+55d03424-fab9-4c19-b844-837e084c7486,guangdong.club,resell,,,medium,low,9,,,,28/09/2026 09:58
 f82c21d7-94c6-46d5-a1cb-837c4a1e58ff,macmillan.club,premium,29.5,17.7,high,low,9,namesilo,,,25/09/2026 12:59
+9b0eb3a7-d5b8-484c-9000-f04ed60ced83,weaker.club,premium,26.08,15.73,low,low,6,spaceship,,,29/09/2026 05:14
 da7edaf3-f752-4f46-91bc-97a5778880f4,suspects.club,premium,116,17.7,medium,low,8,namesilo,,,27/09/2026 03:17
 96e5f72a-3ed8-4a0d-a4c7-ae2004d01446,agincourt.club,available,4.98,24.98,medium,low,9,namecheap,,,17/09/2026 17:59
 8f1b8063-a9f1-44eb-9954-9bfb5fadf0c4,highway.club,premium,1107,17.7,high,low,7,namesilo,,,
+906cd65f-a263-43d0-bb02-66343dc70670,avoided.club,premium,,,low,low,7,,,,29/09/2026 05:05
 e0fe20b6-cb91-42da-8aeb-98105f545133,colouring.club,resell,,,medium,low,9,"Spaceship, Inc.",25/11/2018 08:54,25/11/2026 08:54,26/09/2026 05:07
 d41761af-4257-42f1-a1f9-9ea2733b6a05,rumanian.club,premium,32.5,19.5,high,medium,8,namecheap,,,09/09/2026 18:28
+f5e770cf-f021-492c-a954-818fad6eb30f,garfield.club,resell,,,medium,low,8,,,,28/09/2026 14:15
 21f49319-90ba-4e8a-9d00-0f2506d0b65d,xlviii.club,available,4.98,24.98,medium,low,6,namecheap,,,
 7aa429c6-fbff-4ef1-931a-3f4a5b1ec44f,gave.club,premium,960,17.7,medium,low,4,namesilo,,,
 5287a2f9-b3d1-4c6a-bca0-28a3135293b6,manifestly.club,premium,32.5,19.5,medium,low,10,namecheap,,,08/09/2026 20:23
@@ -470,16 +514,20 @@ afa467f8-a066-4d84-ba26-dedb77144a02,unbeaten.club,premium,29.5,17.7,high,low,8,
 e4b7cad4-b017-4f51-84b5-2a7d9046805e,aberdare.club,available,4.98,24.98,medium,low,8,namecheap,,,16/09/2026 15:08
 192c5daf-8e25-4c3c-9ccb-0b50a3e675cf,unquiet.club,premium,29.5,17.7,medium,low,7,namesilo,,,12/09/2026 17:40
 1688644b-7866-4728-bc12-77d57e63b6cf,unfortunate.club,premium,29.5,17.7,medium,low,11,namesilo,,,26/09/2026 03:07
-42f3ef97-3e19-4509-812d-dc1e67c1b354,skirt.club,resell,,,high,low,5,Dynadot Inc,12/05/2014 14:07,11/05/2027 23:59,26/09/2026 09:04
+42f3ef97-3e19-4509-812d-dc1e67c1b354,skirt.club,resell,,,high,low,5,Dynadot Inc,12/05/2014 14:07,11/05/2027 23:59,29/09/2026 03:43
 bb17358d-8210-42cd-8ed4-767328abf793,chemical.club,premium,960,17.7,high,low,8,namesilo,,,08/09/2026 15:30
+bd485fea-a72c-441a-b6f6-517440b6f409,technological.club,premium,27.82,16.9,medium,low,13,porkbun,,,29/09/2026 02:31
 6d2be41e-1b24-4a37-a751-d11a22a90074,salzburg.club,premium,29.5,17.7,high,low,8,namesilo,,,28/09/2026 03:02
 c362c24c-7ba8-41d2-9e41-aa994dae2038,clinics.club,premium,960,17.7,high,low,7,namesilo,,,20/09/2026 12:34
 b9f10a14-c8bb-4bd5-a2b9-f7324ae3beb6,punily.club,available,1.98,24.98,low,low,6,namecheap,,,15/09/2026 22:01
 a9ed1087-3a01-47cb-bf5d-7857f9df21b4,teeming.club,premium,29.5,17.7,high,low,7,namesilo,,,11/09/2026 10:05
 0a13f17c-0d76-46f6-bf67-b8c0c9b26efb,plucked.club,premium,32.5,19.5,medium,low,7,namecheap,,,08/09/2026 21:28
+23f2d5db-3aaf-4821-be1e-4eca426076ad,ruler.club,premium,,,high,low,5,,,,28/09/2026 10:51
 b5dda8e6-0a1e-407b-a10e-450acbbfaaa3,tactful.club,premium,29.5,17.7,medium,low,7,namesilo,,,22/08/2026 15:49
 82ba7690-a1f0-4706-b5fb-8b4a9439e942,whereabouts.club,premium,33.49,,high,low,11,name.com,,,
+b445b997-c6d5-4f58-982e-32adb2377b26,brescia.club,available,4.98,24.98,medium,low,7,namecheap,,,29/09/2026 06:10
 a1ef52e5-6c46-453d-82ca-1fc53b634e37,soignee.club,available,1.98,24.98,medium,low,7,namecheap,,,10/09/2026 13:30
+aed40858-aeba-4db3-9d2a-a9b2ddc5ebbe,allows.club,premium,,,low,low,6,,,,28/09/2026 08:44
 d94d56d3-fcce-4695-b1dd-fcf0e40d281f,tectonics.club,premium,29.5,17.7,medium,low,9,namesilo,,,20/09/2026 02:14
 921730f0-05f5-494a-b753-a3654067e737,fees.club,premium,53.92,17.7,high,low,4,namesilo,,,
 baa75538-1fff-48e8-9e78-f62c2eb01a2d,perceiver.club,premium,29.5,17.7,high,low,9,namesilo,,,08/09/2026 16:18
@@ -506,7 +554,8 @@ badb02c7-3b2c-46ee-aacb-965db0bdd3e2,distantly.club,premium,29.5,17.7,medium,low
 b3977c85-db10-4aa2-82df-e8a51cab3ee3,valved.club,available,1.98,24.98,medium,low,6,namecheap,,,13/09/2026 01:03
 fbd5e7da-5025-47b8-a29b-7d8865bb53fd,radar.club,resell,,,high,low,5,"GoDaddy.com, LLC",25/07/2017 16:47,25/07/2027 16:47,26/09/2026 08:28
 af443cf7-da62-4ff4-ad57-71148b7ee124,airmanship.club,available,4.99,19.49,medium,low,10,namesilo,,,17/09/2026 23:16
-20c17e5a-a456-4efb-a1ef-02bb54b6917f,too.club,premium,224,17.7,high,low,3,namesilo,,,
+20c17e5a-a456-4efb-a1ef-02bb54b6917f,too.club,premium,224,17.7,high,low,3,namesilo,,,28/09/2026 12:00
+d1e1a577-8050-499f-a196-387004cfed5b,whittier.club,premium,55,15.96,medium,low,8,dynadot,,,28/09/2026 10:10
 9703742b-026b-443c-9a43-dd817c2bac15,dried.club,premium,32.5,19.5,high,low,5,namecheap,,,14/08/2026 18:59
 530f53e4-4721-4638-bd63-dcb511e93c3d,tiled.club,premium,29.5,17.7,medium,low,5,namesilo,,,11/09/2026 15:55
 8acf65ee-481c-43a1-a22a-1642bc6cac4a,captious.club,available,4.98,24.98,medium,low,8,namecheap,,,11/08/2026 18:18
@@ -515,9 +564,12 @@ b576886f-bde1-4755-a2bf-d575d87510ac,screamer.club,premium,32.5,19.5,medium,low,
 6b149a56-9cdf-4bc0-8555-90bf839d626c,tortured.club,premium,29.5,17.7,medium,low,8,namesilo,,,
 c237b2fa-14e3-4f5a-ab17-c844abe1b540,stunningly.club,premium,29.5,17.7,medium,low,10,namesilo,,,16/09/2026 06:09
 75f93332-cb26-46a6-9cca-eca6a5a942ad,centenary.club,premium,29.5,17.7,high,low,9,namesilo,,,11/08/2026 23:54
+d7fd21bb-1f18-4d8d-b091-5f30112a05f2,lindbergh.club,available,4.99,19.49,medium,low,9,namesilo,,,29/09/2026 06:20
 acf61aa8-28ae-4cd5-9549-96824de2bc40,populations.club,premium,32.5,19.5,medium,low,11,namecheap,,,18/09/2026 17:58
 3a445997-05e4-4c75-a537-e1dc9964ebcb,battue.club,available,4.98,24.98,medium,low,6,namecheap,,,22/09/2026 16:30
+8862d6c9-8686-45cd-a614-8816ce69439e,baths.club,premium,975,19.5,high,low,5,namecheap,,,28/09/2026 23:22
 925118a0-ba4a-4f41-b575-d5e3c6beb55b,nominated.club,premium,32.5,19.5,high,low,9,namecheap,,,03/09/2026 18:18
+925ac6c9-6334-4ded-a988-50d92b7af030,countess.club,premium,25.5,,medium,low,8,unstoppable,,,28/09/2026 13:48
 bc88b163-5d11-4c34-9fd7-aa657f137538,rustproof.club,available,1.98,24.98,medium,low,9,namecheap,,,09/09/2026 20:21
 a1dd33ee-a5a3-4f6a-86b4-bba86a5fffbc,baryon.club,premium,29.5,17.7,medium,low,6,namesilo,,,22/09/2026 09:41
 cb0ca6e9-3e7e-4e45-b0a4-571e894461f0,widen.club,premium,29.5,17.7,high,low,5,namesilo,,,
@@ -528,6 +580,7 @@ cdfacf27-adc6-4274-a8e4-7af2325d79c4,boaster.club,available,1.98,24.98,medium,lo
 00d25fbe-b9f2-4419-bcb3-7fb2214d67ee,piecemeal.club,premium,29.5,17.7,high,low,9,namesilo,,,10/08/2026 07:07
 fe538180-0c11-4c24-9587-c6fd346836e9,prohibited.club,premium,29.5,17.7,medium,low,10,namesilo,,,08/08/2026 13:48
 4f3420e5-8d47-4cfe-bad9-cfee4ac12352,conceal.club,premium,29.5,17.7,high,low,7,namesilo,,,25/09/2026 09:06
+6548a81e-dd25-4466-b32c-e4c6525acabb,philosopher.club,premium,1035.2,15.73,high,low,11,spaceship,,,28/09/2026 11:16
 7fcde156-cec0-43bd-81c8-0dd684ae3f5f,velar.club,premium,29.5,17.7,medium,low,5,namesilo,,,13/09/2026 01:59
 57ed6d09-7c8a-4ed8-97f3-6cfd1a7311ba,adoration.club,premium,29.5,17.7,high,low,9,namesilo,,,17/09/2026 09:44
 1974516f-cbac-4d7a-82e0-68e4356dfbf1,infectious.club,premium,29.5,17.7,medium,low,10,namesilo,,,22/08/2026 04:12
@@ -535,9 +588,10 @@ fe538180-0c11-4c24-9587-c6fd346836e9,prohibited.club,premium,29.5,17.7,medium,lo
 2fb50de3-556c-410d-86b3-3a19fc20376f,diseased.club,premium,29.5,17.7,medium,low,8,namesilo,,,14/08/2026 10:08
 bfd82be8-ccb5-48fd-91dd-a376988d3d68,quieten.club,available,4.98,24.98,medium,low,7,namecheap,,,11/08/2026 15:02
 ab409573-c1bc-42f7-b68e-ad74c4afac39,increase.club,premium,1107,17.7,high,low,8,namesilo,,,
+f0e96e65-9420-4e6d-a9b4-50dcdd563eff,hollis.club,available,15.2,15.2,medium,low,6,cloudflare,,,28/09/2026 07:30
 e614d4d0-b84d-4c88-80bd-239ce547ef17,fissile.club,premium,29.5,17.7,medium,low,7,namesilo,,,18/08/2026 05:34
 0c6865e7-1163-43be-877f-b84e5b1eb4a9,shin.club,premium,29.5,17.7,high,low,4,namesilo,,,
-1db385ff-9a7d-4cd4-b034-b0b0052896a2,sales.club,premium,6500,16.9,high,medium,5,namecheap,,,
+1db385ff-9a7d-4cd4-b034-b0b0052896a2,sales.club,premium,6900,17.7,high,medium,5,namesilo,,,28/09/2026 07:37
 1bb39258-4368-43e8-a812-e96443908bfa,gaffer.club,premium,29.5,17.7,medium,low,6,namesilo,,,
 d8258484-ea00-480d-b2a7-d08481b78daf,mammary.club,premium,29.5,17.7,medium,low,7,namesilo,,,24/08/2026 14:23
 7471f1b2-9f2e-4bcf-bf79-e6db959f5681,rookie.club,premium,1004.7,,high,low,6,name.com,,,
@@ -546,6 +600,7 @@ d8258484-ea00-480d-b2a7-d08481b78daf,mammary.club,premium,29.5,17.7,medium,low,7
 221fec93-9973-4bd8-92e7-88adc60e30f9,stupid.club,resell,,,high,low,6,,,,28/09/2026 01:43
 fd35b77b-bb5a-4837-aa91-585663343ce6,fishtail.club,available,4.99,19.49,medium,low,9,namesilo,,,
 fc4bddc7-29a5-4ded-8bea-25f9ca9a74d9,lapse.club,premium,29.5,17.7,high,low,5,namesilo,,,27/09/2026 14:20
+172b3ef4-4e75-4c35-ad86-31c5ae147cff,santos.club,premium,130,19.5,medium,low,6,namecheap,,,28/09/2026 15:17
 96e777e7-d6d5-4a35-b750-87f47291487c,aglaia.club,available,4.98,24.98,medium,low,6,namecheap,,,17/09/2026 18:17
 fa1ab717-e80f-41e3-b2c2-c1c8d558ce83,retired.club,resell,,,high,low,7,Go Canada Domains Inc,07/05/2014 15:01,06/05/2027 23:59,27/09/2026 13:17
 74333044-aea5-4e25-817e-985745abe1bb,peculiar.club,premium,29.5,17.7,high,low,8,namesilo,,,13/08/2026 11:08
@@ -553,9 +608,10 @@ cc59a054-1924-47dc-9f81-7a6c87241c15,carbonara.club,premium,29.5,17.7,high,low,9
 529e0d6c-77c5-4539-a0a4-407eb9d6d1aa,abort.club,premium,29.5,17.7,high,low,5,namesilo,,,16/09/2026 16:38
 80e00168-e22d-4540-9170-0fd1f4234716,diametric.club,available,4.98,24.98,medium,low,9,namecheap,,,14/08/2026 05:56
 72c9aed1-150d-4950-9283-edef513dd138,arethusa.club,available,4.99,19.49,medium,low,8,namesilo,,,20/09/2026 04:04
-bc3541fc-8cc5-4a03-9588-7d11af40a831,accuser.club,premium,29.5,17.7,medium,low,7,namesilo,,,
+bc3541fc-8cc5-4a03-9588-7d11af40a831,accuser.club,premium,29.5,17.7,medium,low,7,namesilo,,,28/09/2026 17:32
 55e6c714-1c86-455a-87b4-66c652ac0e99,public.club,resell,,,high,medium,6,"GoDaddy.com, LLC",24/07/2017 00:00,24/07/2027 00:00,27/09/2026 08:01
 a7bdb0f0-f1f4-4f9f-9013-55aeb4b33cc8,fiction.club,premium,1107,17.7,high,low,7,namesilo,,,
+4051304b-9e43-481a-a8a6-c141c2541a5b,aggregates.club,premium,26.08,15.73,medium,low,10,spaceship,,,28/09/2026 08:51
 eb8e3cd9-1569-4336-8a5d-cf1694f159ce,rabid.club,premium,29.5,17.7,medium,low,5,namesilo,,,17/08/2026 21:52
 1c829764-23f6-44e9-86d2-7c1138383855,studying.club,premium,1107,17.7,high,low,8,namesilo,,,25/09/2026 09:55
 eaca3815-f639-4f2d-8006-24e105cae8fc,intent.club,premium,960,17.7,high,low,6,namesilo,,,
@@ -581,17 +637,20 @@ ff7509db-6d40-4ec4-a074-bea1f9c70855,inadequate.club,premium,29.5,17.7,medium,lo
 2041114c-d518-4be2-8ea1-304538238777,daylong.club,premium,33.49,20.09,medium,low,7,name.com,,,13/08/2026 18:51
 7745a132-8a47-48b3-8874-33ff5178f7b3,publish.club,premium,1035.2,15.73,high,low,7,spaceship,,,28/09/2026 06:03
 136fc749-0161-48df-a006-54f2a5c05698,realizable.club,available,4.99,19.49,high,low,10,namesilo,,,21/09/2026 15:51
-7bad2400-75df-477a-b81d-3ab8c64ffb49,promotion.club,premium,1107,17.7,high,low,9,namesilo,,,
+7bad2400-75df-477a-b81d-3ab8c64ffb49,promotion.club,premium,1107,17.7,high,low,9,namesilo,,,28/09/2026 18:56
 9fb6d072-dd61-4c8c-8913-1ab1dca48d66,delicacy.club,premium,33.49,20.09,high,low,8,name.com,,,13/08/2026 15:51
 12735880-28ef-485a-9391-97229524a624,anisette.club,premium,32.5,19.5,medium,low,8,namecheap,,,19/09/2026 09:29
 7a54d55f-0047-4dfd-bd83-0d3e6058e152,sandaled.club,available,1.98,24.98,high,medium,8,namecheap,,,09/09/2026 21:11
-289d6b2d-a88c-4c5c-9415-a644b1de7a84,basket.club,premium,1107,17.7,high,low,6,namesilo,,,
+e3a79b11-0737-43c2-8791-d43d4e45df2c,tianjin.club,premium,,,medium,low,7,,,,29/09/2026 02:17
+289d6b2d-a88c-4c5c-9415-a644b1de7a84,basket.club,premium,1092.18,16.9,high,low,6,porkbun,,,29/09/2026 01:26
 ca6a71cb-6e5a-44fa-be82-0c4904c97010,neurotoxic.club,available,4.98,24.98,medium,low,10,namecheap,,,03/09/2026 16:25
 bcfc43d8-e8eb-4dba-b668-9cae5e653eaa,immorality.club,premium,29.5,17.7,medium,low,10,namesilo,,,17/08/2026 15:04
 42564589-4099-46f4-a237-f30291576639,joyously.club,premium,32.5,19.5,high,low,8,namecheap,,,14/09/2026 21:30
 9a03027b-6351-4040-86eb-1094a55c1e09,couple.club,premium,960,17.7,high,low,6,namesilo,,,
 1342baa6-6c59-4c74-b745-970c040791b6,atomistic.club,premium,29.5,17.7,low,low,9,namesilo,,,07/08/2026 13:42
 a68123f6-0563-4ef6-8977-be1bd4fa9157,protrusive.club,available,1.98,24.98,medium,low,10,namecheap,,,09/09/2026 04:20
+50d2c199-e8f3-4e0a-b26d-f5248db7a9fa,pudding.club,premium,776.45,15.73,high,low,7,spaceship,,,28/09/2026 15:09
+536088f8-99cc-4097-8a0f-b40bc0a477af,enthusiastic.club,premium,29.5,17.7,high,low,12,namesilo,,,28/09/2026 11:14
 adb24e48-f9ba-4577-b9d0-a85cbd350e80,spaceward.club,available,4.99,19.49,medium,low,9,namesilo,,,16/09/2026 05:42
 c3871070-105b-49ac-8c3f-63c7a7805410,obtain.club,premium,53.92,17.7,high,low,6,namesilo,,,
 b00a4bb9-38c0-46b1-a2ef-6f3c1daac54e,shitty.club,premium,29.5,17.7,medium,low,6,namesilo,,,13/08/2026 05:14
@@ -600,6 +659,7 @@ bc083654-13ca-4588-ac07-c41b878824e4,their.club,resell,,,high,low,5,"Global Doma
 f5548ecf-5b48-4862-ac33-073dc167e814,nonpublic.club,premium,32.5,19.5,medium,low,9,namecheap,,,03/09/2026 20:20
 55d1435a-e9fd-44a2-ac8c-cad1dd0e0e7a,groves.club,premium,33.49,,high,low,6,name.com,,,
 191af421-08f5-4925-a831-3fdb0ce59714,rootless.club,premium,29.5,17.7,high,medium,8,namesilo,,,09/09/2026 18:36
+18fe563c-1909-4000-92a8-014291127f48,pumped.club,premium,26.08,15.73,high,low,6,spaceship,,,29/09/2026 03:14
 9033b3fa-aaf4-4242-a435-26230713220c,derisory.club,available,4.98,24.98,low,low,8,namecheap,,,14/08/2026 02:56
 d13b016c-74cf-4cce-8fdf-c8521ff0706a,ambiguity.club,premium,975,19.5,medium,low,9,namecheap,,,18/09/2026 16:43
 7b2450c7-6b16-4df9-b25c-735c63edcb46,charmingly.club,premium,29.5,17.7,medium,low,10,namesilo,,,14/09/2026 06:21
@@ -607,10 +667,12 @@ d13b016c-74cf-4cce-8fdf-c8521ff0706a,ambiguity.club,premium,975,19.5,medium,low,
 1e39027e-eb55-49e2-8827-ef58e5db44fe,seventy.club,premium,960,17.7,medium,low,7,namesilo,,,
 e18a5a43-7616-4991-baf9-92f492389853,ariocarpus.club,available,4.99,19.49,medium,low,10,namesilo,,,20/09/2026 05:32
 257597fb-fbf3-47b1-baf2-e48d6cdbbc9d,gravity.club,premium,1107,17.7,high,medium,7,namesilo,,,27/09/2026 13:53
+d70b0f3b-7401-4148-aa3e-876312f346af,lasts.club,premium,27.5,15.96,low,low,5,dynadot,,,28/09/2026 09:03
 114fb291-352b-48ca-ae53-1fd4c05c9d55,clogged.club,premium,29.5,17.7,medium,low,7,namesilo,,,12/08/2026 06:41
 8fd216ba-4ee9-448d-96e9-eca6b5be03e0,untilled.club,available,1.98,24.98,medium,low,8,namecheap,,,12/09/2026 21:24
 be04353e-a92e-479e-90f4-60d01293f80d,donatus.club,available,4.99,19.49,medium,low,7,namesilo,,,17/09/2026 12:26
 76237b02-b5e9-44aa-880d-afd04301996a,desktops.club,premium,29.5,17.7,medium,low,8,namesilo,,,20/09/2026 12:27
+39993273-f747-45d0-bed0-3ac7cb0f5916,slate.club,resell,,,high,medium,5,,,,28/09/2026 20:30
 87bb318c-74ec-40ed-b168-f7f9b5046a9a,blossoming.club,premium,29.5,17.7,high,low,10,namesilo,,,18/08/2026 09:04
 092b1826-5070-4ef8-b603-73d3d9d735c8,pawky.club,available,1.98,24.98,medium,low,5,namecheap,,,08/09/2026 10:57
 8e6b0fee-99e8-4b39-87c0-b33dd9e20aae,glory.club,premium,1004.7,,high,low,5,name.com,,,
@@ -620,6 +682,7 @@ eb503cc8-e0e0-4932-b98b-35e006c086c1,chivalric.club,premium,29.5,17.7,high,low,9
 38a76650-007d-410b-889a-f9524db535a9,companies.club,premium,110,15.96,high,low,9,dynadot,,,28/09/2026 04:54
 e4b2b1cd-5371-4e5e-b435-18f2df94133b,germanium.club,premium,29.5,17.7,medium,low,9,namesilo,,,20/09/2026 22:51
 7af7fb2f-89c0-4991-b14d-0f6115d3d00d,seized.club,premium,133.96,,medium,low,6,name.com,,,
+29033215-8d1b-4132-a579-5fd25e298590,calabria.club,premium,,,medium,low,8,,,,29/09/2026 06:11
 61d2d0f8-ff74-425d-aae9-1780142f5367,changed.club,premium,116,17.7,high,low,7,namesilo,,,12/08/2026 01:53
 9f13b8e7-4282-4831-90eb-f077b9dae3e2,acetum.club,available,4.99,19.49,medium,low,6,namesilo,,,17/09/2026 00:18
 619fec01-07b7-4e0c-87e5-6fa75c8eb1cb,immodest.club,premium,32.5,19.5,medium,low,8,namecheap,,,21/08/2026 21:09
@@ -641,6 +704,7 @@ c3acdacd-f268-489c-b7d4-4d2b20baad2b,definitive.club,premium,960,17.7,high,low,1
 bc746fba-591a-413d-be4f-249c7097df7c,widespread.club,premium,29.5,17.7,high,low,10,namesilo,,,24/09/2026 16:57
 ef6fe91d-8ff0-4f05-a8d9-541cf266ae80,kenneth.club,premium,325,19.5,high,low,7,namecheap,,,25/09/2026 19:13
 5c531440-f4d1-40e0-924f-25302095aa5b,cxlv.club,available,4.98,24.98,medium,low,4,namecheap,,,
+d1f84924-f560-4bec-91b0-c9350da9b37a,reactions.club,premium,50.5,,medium,low,9,unstoppable,,,29/09/2026 05:35
 260cf4ec-34b2-4f7f-ab75-2af7a0e65aaf,cells.club,premium,33.49,,medium,low,5,name.com,,,
 d1e7f193-3994-4da3-8098-3e66e269321b,credibly.club,premium,29.5,17.7,medium,low,8,namesilo,,,14/09/2026 09:26
 faf05a53-21d2-47f8-81d5-cc831f72bdb2,breathe.club,premium,1107,17.7,high,low,7,namesilo,,,
@@ -660,17 +724,21 @@ e657f138-b8bd-46d1-bab0-e3194d2a13e4,agrippina.club,available,4.98,24.98,medium,
 80d720ff-6fb8-494f-b0b3-7574fb9169d9,specialist.club,premium,3450,17.7,high,low,10,namesilo,,,28/09/2026 02:23
 a80ebd6b-f507-41c4-9cdc-a87d18e6b147,vastly.club,premium,29.5,17.7,high,low,6,namesilo,,,15/09/2026 01:56
 a2147892-2f2f-4b39-8d6a-ec475dd18362,loth.club,premium,29.5,17.7,medium,low,4,namesilo,,,24/08/2026 08:19
+5cb5854a-18e9-4667-a6e7-ff6a5c1075c7,winkler.club,premium,26.08,15.73,high,low,7,spaceship,,,29/09/2026 03:40
 cf21cc7b-4bc0-4e40-a493-7f202e314219,ways.club,premium,302.5,17.7,high,low,4,namesilo,,,
 b3041006-3e6b-463f-a3e3-c7e682d787b9,multiplied.club,premium,29.5,17.7,medium,low,10,namesilo,,,03/09/2026 10:54
+13f1b28c-7475-417b-ad53-3cb41069d953,modify.club,premium,825,15.96,high,low,6,dynadot,,,29/09/2026 06:19
 09057ae7-64ed-4af8-ac78-2755868f1b05,windswept.club,premium,29.5,17.7,medium,low,9,namesilo,,,13/09/2026 12:16
 6e85f328-d0b8-41eb-92c1-641ecf9b4f27,snotty.club,premium,29.5,17.7,medium,low,6,namesilo,,,09/08/2026 20:42
 0c081276-01fb-4ec7-8921-b7b293dd7f0b,activewear.club,premium,302.5,17.7,high,low,10,namesilo,,,17/09/2026 05:14
 481601ca-4436-4782-a822-41034cd096c8,corrugated.club,premium,29.5,17.7,medium,low,10,namesilo,,,13/08/2026 02:13
 72d14ba1-9e1f-4bb0-8dbf-d3ed74c42bc7,kinetic.club,resell,,,high,low,7,"Spaceship, Inc.",19/04/2015 21:18,18/04/2027 23:59,26/09/2026 07:05
+8ff6dcf4-e08d-410c-a973-7e5aa931204e,massachusetts.club,premium,,,medium,low,13,,,,28/09/2026 11:48
 4ca31388-758d-4f41-95e1-98ef2de35454,profitable.club,premium,960,17.7,high,low,10,namesilo,,,27/09/2026 07:05
 b83f6565-8b88-49a5-875d-091d1a04323f,footless.club,available,2.19,19.49,medium,low,8,namesilo,,,18/08/2026 10:45
 5e45e628-0d5b-44c9-83d1-4107672f399a,zamang.club,available,4.99,19.49,medium,low,6,namesilo,,,18/09/2026 03:18
 605a0b62-c82e-4f9d-b837-1abcea6cdbc4,sunken.club,premium,29.5,17.7,medium,low,6,namesilo,,,13/08/2026 22:55
+f1335e7e-da02-41b5-9be7-756a182fb106,accuse.club,premium,29.5,17.7,medium,low,6,namesilo,,,29/09/2026 02:41
 a13fe13f-857d-4045-be5b-dfb4b325c0ba,graves.club,premium,,,high,low,6,,,,28/09/2026 05:52
 1192412a-1917-4ae3-adc2-838ac2f9c33b,enormously.club,premium,29.5,17.7,medium,low,10,namesilo,,,14/09/2026 15:47
 8d4fb744-cafd-4e93-9cfd-39de844d156e,copesetic.club,available,4.98,24.98,medium,low,9,namecheap,,,13/08/2026 00:22
@@ -679,11 +747,11 @@ a13fe13f-857d-4045-be5b-dfb4b325c0ba,graves.club,premium,,,high,low,6,,,,28/09/2
 78b89664-c7c7-4439-870c-14284e48ca3c,tamable.club,available,1.98,24.98,medium,low,7,namecheap,,,11/09/2026 07:36
 841333c8-03a2-4a3d-a763-f0512f2e10ef,stitched.club,premium,29.5,17.7,medium,low,8,namesilo,,,10/09/2026 05:09
 212dd6a9-9881-4311-8038-0897ef0d43cf,vigilantly.club,available,4.99,19.49,medium,low,10,namesilo,,,16/09/2026 10:54
-ad36370f-63d6-4ff6-8ef4-34d09924d31b,acronym.club,premium,33.49,,high,low,7,name.com,,,
+41e9c86a-9eea-42b9-b0c7-c4979082b167,scanning.club,premium,776.45,15.73,medium,low,8,spaceship,,,28/09/2026 15:18
 85ca8f62-ef99-45b2-834e-2fceaac6da0f,startled.club,premium,32.5,19.5,medium,low,8,namecheap,,,10/09/2026 19:00
 d9858de4-cee4-44a5-895d-ed910dd2eaca,ballyrag.club,available,1.98,24.98,medium,low,8,namecheap,,,11/08/2026 08:57
 0f1bbe17-e0af-476b-8eec-224fcf791126,benadryl.club,premium,32.5,19.5,high,medium,8,namecheap,,,23/09/2026 07:35
-cde9b66c-0ee0-4e93-abd8-dbbbe955c591,night.club,resell,,,high,low,5,1API GmbH,15/10/2015 11:02,14/10/2030 23:59,26/09/2026 07:47
+cde9b66c-0ee0-4e93-abd8-dbbbe955c591,night.club,resell,,,high,low,5,1API GmbH,15/10/2015 11:02,14/10/2030 23:59,29/09/2026 00:18
 0cdcb20d-57de-4fa0-97e3-6cbfeff76278,activase.club,available,4.98,24.98,medium,low,8,namecheap,,,17/09/2026 05:09
 fd5a55ec-a02a-455e-8da7-05c2910f0c7f,cheers.club,resell,,,high,low,6,,,,27/09/2026 06:11
 6d1eb4ce-17e1-4468-84c4-c5c438c8ed98,bedevil.club,available,4.98,24.98,medium,low,7,namecheap,,,14/08/2026 21:15
@@ -702,11 +770,14 @@ e5e93725-af44-4bad-8cb5-ac916336edf5,homeward.club,premium,29.5,17.7,high,low,8,
 ea2f21bb-77f5-4719-a5cc-27a37a28ba8d,operate.club,premium,53.92,17.7,high,low,7,namesilo,,,25/09/2026 06:12
 23c749d7-45d0-4bf3-bd01-34b6d7e89d05,peeking.club,premium,29.5,17.7,high,low,7,namesilo,,,
 0dcfc5a4-299f-454f-947e-b46975d212c6,unwed.club,premium,29.5,17.7,medium,low,5,namesilo,,,12/09/2026 22:35
+1584ac14-ff50-4bcd-86ac-2918fd2bab3b,eec.club,premium,181.33,15.73,high,low,3,spaceship,,,29/09/2026 00:28
 2e8ac607-8aec-40a9-9968-c5d919fd3e77,hound.club,premium,960,17.7,medium,low,5,namesilo,,,24/09/2026 02:24
 3c3b93c1-5541-4f23-8eef-291833fd5a2f,prosily.club,available,1.98,24.98,low,low,7,namecheap,,,15/09/2026 21:46
+116bbcf6-cb2c-4982-85bd-ef28284bf60f,trance.club,resell,,,high,low,6,,,,28/09/2026 13:44
 46b67e45-b285-41f7-80d9-76b2189aa039,bonnie.club,premium,130,19.5,high,low,6,namecheap,,,10/08/2026 18:47
 82ccfe54-5547-4d8c-87d7-9b1ff01b75df,autotelic.club,available,1.98,24.98,high,low,9,namecheap,,,07/08/2026 21:08
 4d321e6e-bfd4-409d-ac50-8485cfdec04a,servant.club,premium,130,19.5,high,low,7,namecheap,,,25/09/2026 06:52
+0512bca4-af97-4a50-bfd5-9649b45345fc,usaid.club,available,4,15.96,medium,low,5,dynadot,,,28/09/2026 16:09
 1941be14-efdd-43f4-8cfd-e0587159a0c5,zarqa.club,available,4.99,19.49,medium,low,5,namesilo,,,21/09/2026 10:58
 c952fc47-9d3f-4452-a7be-9907bf414330,puppyish.club,available,1.98,24.98,high,medium,8,namecheap,,,09/09/2026 06:09
 489fa161-23b0-4c52-88ff-12ec95ed89c5,teddy.club,premium,3450,17.7,high,low,5,namesilo,,,24/09/2026 14:16
@@ -716,6 +787,7 @@ acb24bf9-470f-431b-8aa1-06fc4545076e,barrie.club,premium,53.92,17.7,medium,low,6
 29d33d3c-c6e3-4746-92c6-bfaaa0f0c0a0,acquiesce.club,premium,29.5,17.7,medium,low,9,namesilo,,,20/09/2026 16:11
 98f6c355-510b-40bc-bc87-b6fd640d67d9,bionomic.club,available,1.98,24.98,medium,low,8,namecheap,,,10/08/2026 03:03
 13cd9d46-fc7f-49d0-8383-d80fc8a48236,favors.club,premium,32.5,19.5,high,low,6,namecheap,,,18/09/2026 09:42
+e4d96ac1-7a9d-44da-afef-7cdf05aa989d,movements.club,premium,29.5,17.7,medium,low,9,namesilo,,,28/09/2026 12:36
 57e383d3-f888-463f-9946-b263f8206f6b,ilx.club,premium,224,17.7,medium,low,3,namesilo,,,
 4d4551f6-a52d-4b7d-9061-8ceaad4119ba,descent.club,premium,960,17.7,high,low,7,namesilo,,,08/09/2026 13:07
 57ca90d5-06f7-445d-aa62-7163ffc0145f,promises.club,premium,960,17.7,medium,low,8,namesilo,,,27/09/2026 03:01
@@ -738,7 +810,11 @@ c7df9c82-ad56-43b3-b008-7e0a9f9cba34,conducting.club,premium,29.5,17.7,high,low,
 5b634076-207b-4001-9dcb-7bcee45ddc0a,twit.club,premium,53.92,17.7,medium,low,4,namesilo,,,11/09/2026 09:11
 bf2ea4b9-5744-4014-89bd-5882826446e3,akron.club,premium,32.5,19.5,medium,low,5,namecheap,,,18/09/2026 00:14
 c8d29557-5a91-48bd-9260-97692a07cf6b,kastler.club,available,4.99,19.49,medium,low,7,namesilo,,,18/09/2026 06:34
+c7a4b145-b9f2-4365-9de6-f6211de1c3f5,reprints.club,premium,27.5,15.96,medium,low,8,dynadot,,,28/09/2026 09:09
 16000b11-3d9b-4b56-b86e-7ec9198004f6,rotational.club,premium,32.5,19.5,high,medium,10,namecheap,,,09/09/2026 18:47
+c19dff80-34de-46bf-b923-ecca1a80e47e,chet.club,resell,,,high,low,4,,,,29/09/2026 03:38
+d3122e9a-3e56-43d4-8b4a-c863459fc115,olaf.club,premium,29.5,17.7,medium,low,4,namesilo,,,28/09/2026 07:48
+8aee0305-e16d-4444-b39f-7f9e7b06c601,spelled.club,premium,25.5,,low,low,7,unstoppable,,,28/09/2026 16:58
 9ca3400b-1aad-47b3-b59a-ba2158f4f546,spick.club,available,4.98,24.98,medium,low,5,namecheap,,,21/08/2026 20:46
 e5676965-9923-4eca-abd9-d3d938411f06,chickens.club,premium,181.33,15.73,medium,low,8,spaceship,,,27/09/2026 22:56
 1c28957e-b191-4453-8056-2604188a7b04,dorsal.club,premium,29.5,17.7,high,low,6,namesilo,,,
@@ -748,13 +824,16 @@ f577d90a-063b-46bc-a99b-af91148a0169,peptic.club,premium,29.5,17.7,medium,low,6,
 6b027860-4909-4c72-a557-3324a17506d8,juridic.club,available,2.19,19.49,medium,low,7,namesilo,,,22/08/2026 14:42
 6c0852be-c255-419d-a487-71729e461df4,plough.club,premium,29.5,17.7,medium,low,6,namesilo,,,23/09/2026 14:29
 e2451311-2eae-4c4b-b7d0-329e32e92ca8,seals.club,premium,960,17.7,high,low,5,namesilo,,,
+42192880-2bf3-48c1-92d2-8b098a1f395f,judas.club,premium,29.5,17.7,medium,low,5,namesilo,,,28/09/2026 19:35
+3534c16e-5017-41a9-a4d6-ab87d40bfe3e,edith.club,premium,116,17.7,medium,low,5,namesilo,,,28/09/2026 16:20
 0fd529c6-73be-46b8-a734-fac0b25aafb4,shocked.club,premium,116,17.7,high,low,7,namesilo,,,
 18e8d344-a87d-4b09-af86-1e49dd49c2f5,deluge.club,premium,32.5,19.5,medium,low,6,namecheap,,,24/09/2026 16:03
 14ea1620-ce8d-4fcf-bd94-11ce127a24a3,prodromal.club,available,1.98,24.98,medium,low,9,namecheap,,,09/09/2026 02:44
 f847c3b7-8a9d-46b4-9235-d31cc271c584,apparition.club,premium,29.5,17.7,high,low,10,namesilo,,,08/09/2026 18:34
 ce931327-d9cc-46fb-aedb-501b28dce92f,antonymous.club,available,1.98,24.98,medium,low,10,namecheap,,,05/08/2026 20:16
 af68d1b2-bea0-4679-a7c5-3458efdb4dc5,sublimated.club,available,1.98,24.98,medium,low,10,namecheap,,,11/09/2026 00:06
-17c70acb-f9fd-4541-a41d-34ecd13ebe82,division.club,premium,1107,17.7,high,low,8,namesilo,,,
+17c70acb-f9fd-4541-a41d-34ecd13ebe82,division.club,premium,1092.18,16.9,high,low,8,porkbun,,,28/09/2026 19:33
+0ef119ec-520f-42c6-a870-43113a1aed9d,vincennes.club,available,4.98,24.98,medium,low,9,namecheap,,,28/09/2026 22:26
 c53c16d5-3d8f-44b3-b397-dfcaccb43e65,orad.club,available,1.98,24.98,medium,low,4,namecheap,,,15/09/2026 18:09
 67a9b8a6-0d1d-4616-adc3-0c90acbf76eb,unnerved.club,premium,29.5,17.7,medium,low,8,namesilo,,,12/09/2026 15:54
 5be4d159-872e-4c85-b607-d8f881f0b2fd,boolean.club,resell,,,high,low,7,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),06/03/2026 14:03,06/03/2027 14:03,26/09/2026 04:32
@@ -782,7 +861,9 @@ edb4c2a8-2454-4fa4-817d-90b7c0de6821,mousy.club,premium,29.5,17.7,medium,low,5,n
 81a338bd-b9ea-4319-8b4f-1cd74dc2d72b,domed.club,premium,29.5,17.7,high,low,5,namesilo,,,14/08/2026 15:37
 dbdacd05-7f9d-4462-9475-36c2f6c15cbd,teamwork.club,resell,,,high,low,8,"GoDaddy.com, LLC",13/05/2014 23:27,12/05/2028 23:59,26/09/2026 09:32
 61ab4868-ef0b-498e-bc94-e0cbef4f674a,amaryllis.club,premium,29.5,17.7,high,low,9,namesilo,,,18/09/2026 15:59
+7fb1b0e6-07c2-4391-8316-eb910b9a4c4f,moldova.club,premium,,,high,high,7,,,,28/09/2026 10:24
 e0dd30d0-7d58-40dc-8729-719454b87419,windsock.club,premium,32.5,19.5,medium,low,8,namecheap,,,17/09/2026 21:40
+f3b6222a-7914-4a7c-9d4c-a32be0c1d7c3,missouri.club,premium,776.45,15.73,high,low,8,spaceship,,,28/09/2026 10:24
 4ccaf7ef-cf4a-48d5-b487-4a4b23a8c5a9,floodwaters.club,premium,29.5,17.7,medium,low,11,namesilo,,,21/09/2026 03:37
 1d41535e-401d-483d-b661-f06345353eab,mckenna.club,premium,110,15.96,high,low,7,dynadot,,,27/09/2026 19:59
 eeb9b548-d35b-411a-b8fd-c44681855b20,compared.club,premium,29.5,17.7,medium,low,8,namesilo,,,27/09/2026 09:01
@@ -797,6 +878,7 @@ eeb9b548-d35b-411a-b8fd-c44681855b20,compared.club,premium,29.5,17.7,medium,low,
 584be77e-993a-4343-b744-12caefe05d58,anisoptera.club,available,4.99,19.49,medium,low,10,namesilo,,,19/09/2026 09:34
 0e6f9880-ddd9-403c-b4f2-3bf874dc6e07,lentic.club,available,2.19,19.49,medium,low,6,namesilo,,,22/08/2026 23:50
 a8641b0d-2a37-4b65-9988-b194df327e01,veal.club,premium,960,17.7,medium,low,4,namesilo,,,
+681f0ce7-ac09-4ea6-ad0f-456805d5e13e,devils.club,premium,960,17.7,low,low,6,namesilo,,,28/09/2026 08:49
 99137c4e-e9fc-4963-8d0c-b39b5ca75824,ixc.club,premium,227.5,19.5,medium,low,3,namecheap,,,
 1ff3ecd7-7573-4534-a905-5fbf123369d7,portholes.club,premium,32.5,19.5,low,low,9,namecheap,,,19/09/2026 21:54
 16d9559c-59a0-40c6-ac22-8301831d7ea2,cultivator.club,premium,33.49,20.09,medium,low,10,name.com,,,17/09/2026 19:20
@@ -826,6 +908,7 @@ b06d839f-d5d4-4588-91b5-9f2b8b438843,discoid.club,available,4.98,24.98,medium,lo
 ff69b58c-9408-4c53-98f8-6efb29ba14f5,persuade.club,premium,29.5,17.7,high,low,8,namesilo,,,27/09/2026 16:35
 7ace4d86-5012-4982-be31-034530ea0bea,slaphappy.club,available,4.98,24.98,medium,low,9,namecheap,,,14/08/2026 05:04
 238c298b-bfb1-4d8f-af39-6a456fc2a336,objects.club,premium,33.49,,medium,low,7,name.com,,,
+518bd110-9820-4daa-bca7-df2ecf21fcee,hendricks.club,premium,26.08,15.73,medium,low,9,spaceship,,,28/09/2026 08:45
 7afae029-a430-4e52-8577-f61c5ecc2681,semipublic.club,available,1.98,24.98,medium,low,10,namecheap,,,10/09/2026 03:17
 81a66283-edae-4f0a-a5ee-a895e0fc5a75,besieged.club,premium,29.5,17.7,low,low,8,namesilo,,,09/08/2026 15:25
 737ac55c-d156-4e4c-94a3-ca67fa0ffefb,poof.club,premium,302.5,17.7,medium,low,4,namesilo,,,09/09/2026 08:09
@@ -842,7 +925,9 @@ ecdc16da-0420-490f-8ba6-6e9e547a117e,bps.club,premium,224,17.7,high,low,3,namesi
 8a6c3504-245f-4f68-82eb-5de3abffbde6,heckler.club,premium,29.5,17.7,medium,low,7,namesilo,,,21/09/2026 17:11
 65786617-ae16-4b81-961f-9791e82b59dd,perinatal.club,premium,29.5,17.7,medium,low,9,namesilo,,,08/09/2026 17:07
 4ecac7d4-b3c3-46f4-b56a-66ad347f8cde,upon.club,premium,53.92,17.7,high,low,4,namesilo,,,27/09/2026 11:32
-f62315cd-3369-4dbc-8a66-bd25c9b87bd4,blues.club,premium,6698,,high,low,5,name.com,,,
+a029e9cc-6247-4dcf-af94-4ef18eb0cfb8,clips.club,premium,,,medium,low,5,,,,28/09/2026 23:13
+8f9c86fa-095e-49a8-82f5-0e400cfb6343,belts.club,premium,116,17.7,medium,low,5,namesilo,,,28/09/2026 09:04
+f62315cd-3369-4dbc-8a66-bd25c9b87bd4,blues.club,premium,6900,17.7,high,low,5,namesilo,,,29/09/2026 03:01
 5a2b19f5-8643-489d-a07f-9637742a4b88,crepuscule.club,premium,53.92,17.7,medium,low,10,namesilo,,,11/09/2026 21:48
 41ff7982-c34e-4e44-8682-e3a4e8499b64,haired.club,premium,29.5,17.7,medium,low,6,namesilo,,,20/08/2026 22:09
 ceed96c4-e53e-4c84-b7d3-66d8e44228e2,brothel.club,premium,130,19.5,medium,low,7,namecheap,,,21/09/2026 18:15
@@ -853,8 +938,9 @@ adee17a5-f21b-463f-9cdf-8fd97cfe43ce,blusher.club,premium,29.5,17.7,medium,low,7
 bccebdbb-13a5-4e6e-a4f7-7e7f5f466219,vagal.club,premium,29.5,17.7,medium,low,5,namesilo,,,08/09/2026 22:07
 5458c1c5-4529-4651-9a18-03b8062fb49c,lyrical.club,premium,29.5,17.7,high,low,7,namesilo,,,24/08/2026 12:41
 90a43ba9-6e4c-4114-bd78-ed6e5cc7d704,prostatic.club,premium,29.5,17.7,medium,low,9,namesilo,,,09/09/2026 03:53
-f5baa354-675e-47bf-805a-b7c594681294,worse.club,premium,29.5,17.7,high,low,5,namesilo,,,
+f5baa354-675e-47bf-805a-b7c594681294,worse.club,premium,26.08,15.73,high,low,5,spaceship,,,28/09/2026 10:56
 7e9e78fa-85a1-4764-92cd-bda6a8432610,bernie.club,premium,29.5,17.7,medium,low,6,namesilo,,,27/09/2026 10:13
+dd73e516-9e48-460c-8efc-54e4abbfb77b,trailing.club,premium,26.08,15.73,medium,low,8,spaceship,,,29/09/2026 02:21
 821ab0b9-7891-4342-92c5-1fb205d0081b,anolis.club,available,4.99,19.49,medium,low,6,namesilo,,,19/09/2026 11:23
 b40567f7-f29f-438e-8bb4-d6604532750c,glamourous.club,premium,53.92,17.7,high,low,10,namesilo,,,19/08/2026 00:17
 95f57714-ef2d-46e0-b1ff-d7d42cbf5507,dishonour.club,available,1.99,,medium,low,9,name.com,,,
@@ -867,11 +953,12 @@ eb0d44c5-1dd1-4df4-8626-b8e86ca4727e,pot.club,resell,,,high,low,3,"GoDaddy.com, 
 51da2db3-cdac-4b07-9c55-9475a7abc818,drawing.club,premium,1300,16.9,high,low,7,namecheap,,,
 eae23318-178e-45e0-9a8b-2e35c2d87a29,relating.club,premium,133.96,,high,low,8,name.com,,,
 2a2ad0ab-5eb2-42ab-9236-fd3c7b8b75f3,ratable.club,available,1.98,24.98,high,medium,7,namecheap,,,09/09/2026 10:31
-135f7952-6dfa-481e-9d12-f847398e64c1,intellect.club,premium,960,17.7,high,low,9,namesilo,,,22/08/2026 07:54
+135f7952-6dfa-481e-9d12-f847398e64c1,intellect.club,premium,750.5,17.7,high,low,9,unstoppable,,,28/09/2026 07:56
 db07bb7b-c956-4dee-a576-59a660373518,pronounced.club,premium,32.5,19.5,high,low,10,namecheap,,,25/09/2026 16:53
 d9f52572-ff94-479f-8453-ac3ac546186a,dickens.club,premium,53.92,17.7,high,low,7,namesilo,,,
 e69e80b0-f9cd-4ffb-a716-2ee0a83e03e3,ataxia.club,premium,29.5,17.7,medium,low,6,namesilo,,,20/09/2026 19:46
 c25e1886-b8e4-4ad8-aa62-c1c6f8be8560,repeated.club,premium,29.5,17.7,high,low,8,namesilo,,,27/09/2026 11:04
+a73ca8ec-28e9-4924-861c-9671d37c587b,jurisdiction.club,premium,32.5,19.5,high,low,12,namecheap,,,28/09/2026 22:34
 834a87e3-ba00-4f97-81d5-42c500124c0e,steadily.club,premium,29.5,17.7,medium,low,8,namesilo,,,10/09/2026 19:32
 961abcd0-f14c-4171-a6a3-88e4e928866d,dissolute.club,premium,33.49,20.09,medium,low,9,name.com,,,13/08/2026 20:19
 a060f60f-dfa7-44f4-85ee-4d5dec5fd9bf,palatial.club,premium,29.5,17.7,high,low,8,namesilo,,,04/09/2026 23:22
@@ -879,7 +966,9 @@ a060f60f-dfa7-44f4-85ee-4d5dec5fd9bf,palatial.club,premium,29.5,17.7,high,low,8,
 8e3f048f-e6d8-4329-a62b-f2ae4761256f,anasazi.club,premium,33.49,20.09,high,low,7,name.com,,,19/09/2026 03:16
 b5eb6a91-bdd5-49a6-b741-2581c4ca3ff2,entrancing.club,available,1.98,24.98,medium,low,10,namecheap,,,09/08/2026 18:23
 97216084-9ca8-45ed-a0bd-8cf8a9bfe3ef,luxurious.club,premium,960,17.7,high,low,9,namesilo,,,14/08/2026 00:57
+dd62f4c3-0bbd-46a5-8a78-27efe97f3dfd,courthouse.club,premium,975,19.5,medium,low,10,namecheap,,,28/09/2026 09:28
 d45f8ede-982f-469f-9415-f1402379ec19,mythologic.club,available,4.98,24.98,medium,low,10,namecheap,,,03/09/2026 12:33
+5920eb17-01a6-4d88-b89d-16f41ee9ab42,takahashi.club,premium,25.5,,medium,low,9,unstoppable,,,28/09/2026 16:36
 c6106e15-3292-41f8-816f-f2d36c767ccc,straight.club,premium,960,17.7,high,low,8,namesilo,,,14/08/2026 08:46
 b76d8d84-e591-4446-bfa4-6b67012c75be,dreyfus.club,premium,29.5,17.7,medium,low,7,namesilo,,,18/09/2026 06:30
 0a604c10-08cd-4e7f-91db-5d6d1a740dc7,basset.club,premium,29.5,17.7,medium,low,6,namesilo,,,22/09/2026 12:10
@@ -891,111 +980,22 @@ e2daf8d0-e355-4d27-89fc-91fa27cddcce,costly.club,premium,960,17.7,high,low,6,nam
 a0841c59-792f-47b7-bde7-6aa58380f907,skag.club,available,4.98,24.98,medium,low,4,namecheap,,,23/09/2026 14:39
 ef9a1d3e-aa6b-4613-b00a-f2b3cd62cfe1,royally.club,premium,29.5,17.7,medium,low,7,namesilo,,,15/09/2026 12:01
 7dd550a8-5f00-402a-926d-5bc8725f1520,coerce.club,premium,29.5,17.7,medium,low,6,namesilo,,,20/08/2026 22:25
+b01d7de5-06fb-4638-88fd-5103f3811d7d,spilled.club,premium,27.5,15.96,low,low,7,dynadot,,,28/09/2026 23:49
 705e5ff5-9e5e-4ae8-9fb8-9c4761a1ebff,drinkable.club,premium,32.5,19.5,high,low,9,namecheap,,,14/08/2026 19:23
+96adb802-5f0f-458d-9269-ef6fb15922ad,sights.club,premium,29.5,17.7,high,low,6,namesilo,,,28/09/2026 10:56
 3f43aa1c-9c46-4a5e-a96e-2cb67220444b,untrained.club,premium,32.5,19.5,medium,low,9,namecheap,,,12/09/2026 21:40
-ae687be3-1c8d-409d-bc74-d776134edfcd,atp.club,premium,224,17.7,high,low,3,namesilo,,,24/09/2026 08:23
+ae687be3-1c8d-409d-bc74-d776134edfcd,atp.club,premium,224,17.7,high,low,3,namesilo,,,28/09/2026 18:27
 d5846f5d-db89-4259-8edb-56379d058f6b,wheedle.club,available,4.99,19.49,medium,low,7,namesilo,,,24/09/2026 04:07
 4227ff34-5c72-4e02-9321-3134741d5ab4,surrounded.club,premium,29.5,17.7,medium,low,10,namesilo,,,16/08/2026 22:16
+ad13ea00-78d5-4844-bfc0-ee43250fdc6b,abu.club,premium,181.33,15.73,high,low,3,spaceship,,,29/09/2026 03:39
 81c53dc6-4c57-4101-bd79-94e2656821fa,typical.club,premium,65,19.5,high,low,7,namecheap,,,24/09/2026 11:26
 4b43ad0b-666a-47e7-8c88-ff77fddca80b,unbarred.club,available,1.98,24.98,medium,low,8,namecheap,,,12/09/2026 01:34
+56a319d2-9a24-4f09-8761-ce1c956db6d1,anastasia.club,premium,258.95,15.73,medium,low,9,spaceship,,,29/09/2026 03:46
 2cb42ab4-2980-4f1e-b981-9c1554f15c08,welds.club,premium,29.5,17.7,medium,low,5,namesilo,,,20/09/2026 14:08
 19825e09-5f1d-4b66-be78-4bc759bfa842,bellyful.club,premium,29.5,17.7,medium,low,8,namesilo,,,23/09/2026 06:51
 bd8d2546-5388-4731-8660-3043ebe88e9b,nooky.club,premium,29.5,17.7,low,low,5,namesilo,,,18/08/2026 17:29
 165ed0d9-f2aa-4bd6-bcc5-d17becdea138,unlovable.club,available,1.98,24.98,medium,low,9,namecheap,,,12/09/2026 15:08
 b5f3c7ca-f29f-44ee-9d35-50f943d1a09b,pristine.club,premium,975,19.5,high,low,8,namecheap,,,27/09/2026 06:11
 1c6cf4e4-4d70-431a-a622-6ada3db1d9c6,nazimova.club,available,4.99,19.49,medium,low,8,namesilo,,,18/09/2026 09:38
+2813d411-33b5-4748-9f74-10dfc2a9366b,uppsala.club,premium,29.5,17.7,medium,low,7,namesilo,,,28/09/2026 11:02
 f5491a70-5e28-443b-af44-c7702a4b11bd,aventail.club,premium,32.5,19.5,medium,low,8,namecheap,,,21/09/2026 09:05
-edb32b59-925f-4d21-932b-b4ff2b6de005,enjoyable.club,premium,960,17.7,high,low,9,namesilo,,,17/08/2026 09:17
-c5733977-ab53-4fdf-856c-97d4bae364db,ported.club,available,4.99,19.49,high,low,6,namesilo,,,20/09/2026 15:39
-ed6fbb9b-ee58-4a89-a823-3f7cfab7b43a,expires.club,premium,29.5,17.7,medium,low,7,namesilo,,,20/09/2026 13:50
-65cac96f-ede1-4c12-9b1b-19076ccf28af,afterward.club,premium,29.5,17.7,medium,low,9,namesilo,,,
-63a2be58-1840-4948-802a-0f8ce5634784,commensal.club,available,4.98,24.98,medium,low,9,namecheap,,,12/08/2026 19:08
-11ad76d5-3844-4d22-9db8-5ecdcc3497f3,johanna.club,premium,100.5,,high,low,7,unstoppable,,,28/09/2026 03:57
-519cdc9b-4302-49e2-a60c-8ed501e83504,chian.club,premium,29.5,17.7,medium,low,5,namesilo,,,12/08/2026 04:34
-98e1eac4-21c1-4c04-a17c-2db27db02f00,brushing.club,premium,960,17.7,high,low,8,namesilo,,,
-33b82428-d7b5-4098-a9b4-7da45e75ea5d,barbuda.club,premium,29.5,17.7,medium,low,7,namesilo,,,22/09/2026 05:04
-525dad79-ce8d-438b-9f06-994f820c01e2,gregarious.club,premium,29.5,17.7,high,low,10,namesilo,,,20/08/2026 19:56
-11a1d5d0-375e-4628-af8a-7c206b7f1ae5,papaw.club,available,4.99,19.49,medium,low,5,namesilo,,,20/09/2026 14:12
-7c426879-de07-4444-9127-76a29de248de,granting.club,premium,33.49,,high,low,8,name.com,,,
-ad3da069-b796-4d1e-b9a6-ef47b849597e,paid.club,premium,1107,17.7,high,low,4,namesilo,,,18/08/2026 19:32
-747919e9-dbb3-4fc7-a7ce-4d353446b563,mac.club,premium,224,17.7,high,high,3,namesilo,,,
-c222f8c1-c39d-41f3-885d-62c91a067736,warehouse.club,resell,,,high,low,9,,,,27/09/2026 06:03
-1c34f321-7a6f-4346-a627-0b747fba6f37,antipope.club,available,4.98,24.98,medium,low,8,namecheap,,,19/09/2026 15:00
-f00ceb59-4c45-45ab-bb14-45b45acd398e,elizabeth.club,premium,302.5,17.7,high,low,9,namesilo,,,25/09/2026 05:29
-3ebf884c-88a2-444c-8056-40e47d41e0dd,frederick.club,premium,,,high,low,9,,,,28/09/2026 01:56
-305f2829-9edf-4447-89f2-293772a9d79d,harriet.club,premium,,,high,low,7,,,,27/09/2026 22:29
-35e10ebf-1e17-4b5b-bf5b-69289c9e2b5b,benzol.club,available,4.99,19.49,medium,low,6,namesilo,,,23/09/2026 08:53
-de6da2e6-2edc-41fe-bc7c-c31c39aad3a0,evaporate.club,premium,29.5,17.7,high,low,9,namesilo,,,
-654177e9-551d-4aea-84e8-0688d245d699,burnt.club,premium,29.5,17.7,high,low,5,namesilo,,,23/09/2026 11:41
-44fa7736-6100-476a-87db-f1cd6d1f3828,salaried.club,premium,32.5,19.5,high,low,8,namecheap,,,12/08/2026 19:23
-900a0eec-d8ba-4158-bbbb-3022598ad852,humbling.club,premium,29.5,17.7,medium,low,8,namesilo,,,14/08/2026 01:09
-727dc689-f334-49bd-8035-998231c9cfd6,anthemis.club,available,4.99,19.49,medium,low,8,namesilo,,,19/09/2026 12:57
-d770006d-2742-48d3-95fe-f20c4f944099,stroppy.club,available,1.98,24.98,medium,low,7,namecheap,,,10/08/2026 17:59
-7237afdd-e3ae-4dd0-853c-6142a99ff3f3,spaced.club,premium,29.5,17.7,high,medium,6,namesilo,,,10/09/2026 15:03
-fb754d3b-7e24-4dde-a34c-a4e49863fe92,mouthwash.club,premium,33.49,,high,low,10,name.com,,,
-8474288d-88fb-4297-b8f8-57cea9dae5e4,coiling.club,premium,29.5,17.7,medium,low,7,namesilo,,,12/08/2026 16:09
-391b32da-3196-4ce4-b38d-3bb64fc50520,matai.club,premium,29.5,17.7,medium,low,5,namesilo,,,24/09/2026 01:23
-3d57626d-4ae2-4a4c-bbbe-009a5766e115,laudable.club,premium,29.5,17.7,medium,low,8,namesilo,,,06/08/2026 07:01
-f5cef978-06d8-4aff-91de-2d7761baac95,acquitted.club,premium,29.5,17.7,medium,low,9,namesilo,,,
-fc36b235-41ef-4724-9e1a-42b81f54903e,blackish.club,premium,29.5,17.7,medium,low,8,namesilo,,,10/08/2026 12:03
-dc74f3e4-7dfe-4abd-868e-3cc6ca1e534c,antennaria.club,available,4.99,19.49,medium,low,10,namesilo,,,19/09/2026 12:52
-0387afa5-546e-4748-a593-d089796fffe9,offerings.club,premium,29.5,17.7,medium,low,9,namesilo,,,18/09/2026 10:39
-9bf20fbf-0f45-4c0a-b950-f5642ea1be24,saccade.club,available,2.19,19.49,medium,low,7,namesilo,,,22/08/2026 12:47
-bbaa0142-f6ab-4586-b25c-3d041587feb0,toon.club,premium,32.5,19.5,high,low,4,namecheap,,,19/09/2026 09:01
-c315e740-2e98-450f-bf5a-353f73647b43,quickness.club,premium,29.5,17.7,high,low,9,namesilo,,,
-d9df2ca8-0a44-4df6-af4e-45daee4ca6ce,majuscule.club,available,2.19,19.49,medium,low,9,namesilo,,,24/08/2026 13:26
-41dbe2f6-13e3-4b42-a145-de7b1d112e41,untired.club,available,1.98,24.98,medium,low,7,namecheap,,,12/09/2026 21:29
-b5591640-5275-42c8-a6a5-e6d382880076,roadster.club,premium,302.5,17.7,high,low,8,namesilo,,,11/08/2026 08:06
-8feb19a0-0dbd-44d4-80d4-91576df67e96,pcr.club,premium,181.33,15.73,high,low,3,spaceship,,,28/09/2026 03:30
-4296f93f-610c-4abf-9125-8a8edc5feb96,etiologic.club,available,4.98,24.98,medium,low,9,namecheap,,,
-397bb18e-10b3-43ed-83df-9daf6a67ac57,briefcase.club,premium,1004.7,,high,low,9,name.com,,,
-14dd2709-0111-4dd5-8198-5544ff055ed0,intimacy.club,premium,960,17.7,high,low,8,namesilo,,,17/09/2026 14:02
-654cb5b5-f9ef-4dfc-864e-e00b59a1c64f,gad.club,premium,224,17.7,high,low,3,namesilo,,,19/09/2026 15:59
-0cd3cffc-dcea-4727-88f8-2609712b1856,baghdad.club,premium,960,17.7,medium,low,7,namesilo,,,
-4d3b0d1a-27b1-4b28-bd9f-80ff853bbb0f,antimony.club,premium,29.5,17.7,medium,low,8,namesilo,,,19/09/2026 14:45
-0cd479c2-1860-45cf-bdec-59ef47a7c53e,galangal.club,premium,29.5,17.7,medium,low,8,namesilo,,,18/09/2026 14:03
-caef085e-d37f-427e-ae56-c7817cc292bd,airspeed.club,premium,32.5,19.5,high,low,8,namecheap,,,17/09/2026 23:22
-d635d572-d552-4354-b8ee-4c15ef6dccfd,legibility.club,premium,29.5,17.7,high,low,10,namesilo,,,24/09/2026 22:31
-b23c7986-c99e-4cac-85b1-0d34f8c3ae1b,charcoal.club,premium,960,17.7,high,low,8,namesilo,,,12/08/2026 02:24
-db56db07-7663-47cd-97be-bc6c5a458a3f,introduced.club,available,,,high,low,10,,,,
-869f0437-d40a-4173-87e0-8ade50bd43c0,been.club,premium,302.5,17.7,medium,low,4,namesilo,,,
-e0ae70e1-abe8-4370-a9c8-49c7f5729c4c,forgetting.club,premium,29.5,17.7,high,low,10,namesilo,,,
-7baf8b27-de89-4fbe-a5c2-6c4d3f503ff2,earthborn.club,available,4.98,24.98,medium,low,9,namecheap,,,14/08/2026 22:35
-b9dfa068-c04b-4b5d-b797-39aa55f558b4,his.club,premium,224,17.7,high,low,3,namesilo,,,
-18be124d-c1bc-4d48-a2fd-59d6c94dd212,marked.club,premium,53.92,17.7,high,low,6,namesilo,,,25/09/2026 16:50
-fa24f3eb-c522-4b40-9fbe-97638329b409,cadge.club,premium,29.5,17.7,medium,low,5,namesilo,,,11/08/2026 09:28
-e6dda407-3a1b-4c7b-915a-4269c87964c8,abyssinia.club,premium,32.5,19.5,high,low,9,namecheap,,,16/09/2026 19:52
-3c331ae1-bbd8-4af0-b095-dd83ebd7b6de,grumbling.club,premium,32.5,19.5,medium,low,9,namecheap,,,20/08/2026 20:33
-d70a1290-7815-4105-acc7-473621fe1db5,overtime.club,premium,116,17.7,high,low,8,namesilo,,,
-d344fa22-58ef-43fa-9039-85a6de760a30,tawny.club,premium,29.5,17.7,high,low,5,namesilo,,,11/09/2026 09:19
-bd721564-d8bb-495c-be1f-b7f2e3c9ad24,garbage.club,premium,1107,17.7,high,low,7,namesilo,,,25/09/2026 00:12
-a7176784-1a53-4ef1-88e1-412fe1a2ceea,hectic.club,premium,29.5,17.7,high,low,6,namesilo,,,18/08/2026 03:09
-6d918f09-5913-4ea8-b408-6e6890682764,relevance.club,premium,960,17.7,high,low,9,namesilo,,,
-69a0bba4-0a49-47ec-8c64-8074da659907,deviate.club,premium,29.5,17.7,high,low,7,namesilo,,,
-1047ea94-7936-41e2-a1c2-10fcc5a477c8,farther.club,premium,32.5,19.5,high,low,7,namecheap,,,24/09/2026 17:01
-6ea6a577-9ec6-49ad-9020-d99c6f347343,chamber.club,premium,1107,17.7,high,low,7,namesilo,,,22/09/2026 23:10
-c493ad00-551e-4197-a353-f94cc40ccae2,minacious.club,available,1.99,26.99,low,low,9,name.com,,,24/08/2026 19:57
-66ede8e2-c0c4-43bf-80e0-c4aaf82414e4,joking.club,premium,960,17.7,high,low,6,namesilo,,,25/09/2026 11:45
-06829c89-a09f-4965-85f4-84e113cb84b6,prey.club,premium,26.08,15.73,high,low,4,spaceship,,,27/09/2026 13:29
-613bf3c5-2846-44f0-a356-cb45f3588ab7,untaxed.club,premium,29.5,17.7,medium,low,7,namesilo,,,11/09/2026 09:28
-307cb7a1-074e-4875-85da-616321c8a9bc,regenerate.club,premium,53.92,17.7,high,medium,10,namesilo,,,09/09/2026 12:49
-efd9ae18-aa66-46d9-948c-7071a5ea52c2,angelical.club,available,4.98,24.98,medium,low,9,namecheap,,,22/09/2026 04:27
-e3ceccef-102e-4346-bec7-593db7475f47,anzac.club,premium,29.5,17.7,medium,low,5,namesilo,,,19/09/2026 16:00
-c21eabd7-fdeb-4ade-bc26-03c11a801d5f,devotional.club,premium,29.5,17.7,high,low,10,namesilo,,,14/08/2026 05:15
-449e1285-104c-4814-aeb7-173098070185,ungummed.club,available,1.98,24.98,low,low,8,namecheap,,,12/09/2026 11:43
-0bb895de-ecda-4251-86c2-995c99a6b3ad,backblast.club,available,4.99,19.49,medium,low,9,namesilo,,,21/09/2026 14:26
-38c4b712-95fc-4b30-88e2-f3a94894dee0,promissory.club,premium,29.5,17.7,medium,low,10,namesilo,,,09/09/2026 03:11
-4c19850f-05b6-464b-998a-97ff9646869e,ailanthus.club,available,4.98,24.98,medium,low,9,namecheap,,,17/09/2026 21:07
-64356862-8604-465a-9c10-43acb5e4e524,multitude.club,premium,29.5,17.7,high,low,9,namesilo,,,25/09/2026 12:15
-66befe0c-4020-4456-a35e-174cbe4ca279,overcome.club,resell,,,high,low,8,,,,28/09/2026 05:30
-480517df-f415-42c7-a97a-03c5356c3d2f,ascensive.club,available,1.98,24.98,medium,low,9,namecheap,,,07/08/2026 00:46
-f5ce9ac3-ed8d-40b2-8ec5-bcf7d1282375,veteran.club,premium,1107,17.7,high,low,7,namesilo,,,
-5733c058-c7be-4e67-a6b3-8ee3f0a1bfcc,blackcap.club,available,4.98,24.98,medium,low,8,namecheap,,,23/09/2026 23:42
-0c58f75c-64e3-48c7-95d3-ed8bf63b9959,pyaemic.club,available,1.98,24.98,high,medium,7,namecheap,,,09/09/2026 06:49
-1e9b8446-5b03-418a-bc1c-4eca649fcc73,depraved.club,premium,29.5,17.7,medium,low,8,namesilo,,,14/08/2026 02:29
-9da8758d-5c65-4e54-86d6-e4052a04d91d,scouts.club,premium,1107,17.7,high,low,6,namesilo,,,28/09/2026 04:05
-10208cc1-7099-4e63-8b75-daf40b70550f,intentions.club,premium,258.95,15.73,medium,low,10,spaceship,,,27/09/2026 22:32
-b079db90-db7c-46f9-ba26-3f55198028b9,incitive.club,available,2.19,19.49,medium,low,8,namesilo,,,22/08/2026 01:27
-28d31165-aafa-4724-ab83-762e2c2ab061,regretful.club,premium,29.5,17.7,high,medium,9,namesilo,,,09/09/2026 13:00
-a471b0fc-224c-468d-ad53-6e2bcffe8b69,bedside.club,premium,29.5,17.7,high,low,7,namesilo,,,22/09/2026 23:34
-56a7889b-bab4-4785-bc92-60e0e340050f,aeon.club,resell,,,high,high,4,Dynadot Inc,05/10/2018 16:37,05/10/2027 16:37,26/09/2026 01:24
